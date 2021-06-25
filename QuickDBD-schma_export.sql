@@ -60,3 +60,6 @@ REFERENCES "Game" ("GameID");
 ALTER TABLE "Ratings" ADD CONSTRAINT "fk_Ratings_GameID" FOREIGN KEY("GameID")
 REFERENCES "Game" ("GameID");
 
+ALTER TABLE "ESRB_Rating" ADD CONSTRAINT "fk_ESRB_Rating_GameID" FOREIGN KEY("GameID")
+REFERENCES "Game" ("GameID");
+
