@@ -9,16 +9,17 @@ CREATE TABLE "Game" (
     "GameID" int   NOT NULL,
     "GameName" string   NOT NULL,
     "ReleaseDate" string   NOT NULL,
+    "Platform" string   NOT NULL,
     "Genre" string   NOT NULL,
     CONSTRAINT "pk_Game" PRIMARY KEY (
         "GameID"
      )
 );
 
-CREATE TABLE "Genre" (
+CREATE TABLE "Platform" (
     "GameID" int   NOT NULL,
-    "Genre" string   NOT NULL,
-    CONSTRAINT "pk_Genre" PRIMARY KEY (
+    "Platform" string   NOT NULL,
+    CONSTRAINT "pk_Platform" PRIMARY KEY (
         "GameID"
      )
 );
@@ -48,10 +49,10 @@ CREATE TABLE "ESRB_Rating" (
      )
 );
 
-ALTER TABLE "Game" ADD CONSTRAINT "fk_Game_Genre" FOREIGN KEY("Genre")
-REFERENCES "Genre" ("Genre");
+ALTER TABLE "Game" ADD CONSTRAINT "fk_Game_Platform" FOREIGN KEY("Platform")
+REFERENCES "Platform" ("Platform");
 
-ALTER TABLE "Genre" ADD CONSTRAINT "fk_Genre_GameID" FOREIGN KEY("GameID")
+ALTER TABLE "Platform" ADD CONSTRAINT "fk_Platform_GameID" FOREIGN KEY("GameID")
 REFERENCES "Game" ("GameID");
 
 ALTER TABLE "Sales" ADD CONSTRAINT "fk_Sales_GameID" FOREIGN KEY("GameID")
