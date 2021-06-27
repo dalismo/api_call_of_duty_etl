@@ -8,7 +8,7 @@ Video Games Genre, Sales, Metacritics and ESRB Ratings Database
 2) Predictions - use historical data on games to predict games that will be popular
 
 # Data sources
-1) Sales Unit (#https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv) (CSV) <br>
+1) Videogame sales by Units sold (#https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv) (CSV) <br>
 2) RAWG (API/JSON) 
 
 # ETL Step Starts with the three files 
