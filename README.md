@@ -11,7 +11,7 @@
 Video Games Genre, Sales, Metacritics and ESRB Ratings Database
 
 # Why our final database will be useful to a hypothetical organization?
-1) Ad companies can use the age information, rating, genre to make targeted ads placement decision<br>
+1) Ad companies can use the age information, rating and genre to place targeted ads for example during online games with Call of Duty as an example.<br>
 2) Predictions - use historical data on games to predict games that will be popular
 
 ## Data sources
