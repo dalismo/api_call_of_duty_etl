@@ -1,11 +1,10 @@
 ![image](https://user-images.githubusercontent.com/78628287/123713598-c20cec00-d842-11eb-8bc9-f5f12641ce5b.png)
 
 ## Table of Contents ##
-* [Project Proposal](https://github.com/dalismoapi_call_of_duty_etl#Project-Proposal)
-* [Data Source](https://github.com/dalismoapi_call_of_duty_etl#Data-Source)
-* [Technologies](https://github.com/dalismoapi_call_of_duty_etl#Technologies)
-* [ETL Steps](https://github.com/dalismoapi_call_of_duty_etl#ETP-Steps)
-* [Project Proposal](## Project Proposal )
+* [Project Proposal](#project-proposal)
+* [Data Source](#data-sources)
+* [Technologies](#technologies)
+* [ETL Step](#etl-step)
 
 ## Project Proposal 
 # A brief description of your final database
