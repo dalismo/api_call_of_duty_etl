@@ -1,63 +1,68 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
--- Modify this code to update the DB schema diagram.
--- To reset the sample schema, replace everything with
--- two dots ('..' - without quotes).
-
-
-CREATE TABLE "Game" (
-    "Game_ID" int   NOT NULL,
-    "Game_Name" VARCHAR   NOT NULL,
-    "Release_Date" date   NOT NULL,
-    "Genre" VARCHAR   NOT NULL,
-    CONSTRAINT "pk_Game" PRIMARY KEY (
-        "Game_ID"
+﻿CREATE TABLE "game" (
+    "game_id" int   NOT NULL,
+    "game_name" VARCHAR   NOT NULL,
+    "release_date" date   NOT NULL,
+    "genre" VARCHAR   NOT NULL,
+    CONSTRAINT "pk_game" PRIMARY KEY (
+        "game_id"
      )
 );
 
-CREATE TABLE "Platform" (
+CREATE TABLE "platform" (
     "platform_id" VARCHAR   NOT NULL,
-    CONSTRAINT "pk_Platform" PRIMARY KEY (
+    CONSTRAINT "pk_platform" PRIMARY KEY (
         "platform_id"
      )
 );
 
-CREATE TABLE "Ratings" (
-    "Game_ID" int   NOT NULL,
-    "Metacritic" VARCHAR   NOT NULL,
-    "Rating" VARCHAR   NOT NULL,
-    CONSTRAINT "pk_Ratings" PRIMARY KEY (
-        "Game_ID"
+CREATE TABLE "ratings" (
+    "game_id" int   NOT NULL,
+    "metacritic" VARCHAR   NOT NULL,
+    "rating" VARCHAR   NOT NULL,
+    CONSTRAINT "pk_ratings" PRIMARY KEY (
+        "game_id"
      )
 );
 
-CREATE TABLE "ESRB_Rating" (
-    "Game_ID" int   NOT NULL,
-    "ESRB_rating" VARCHAR   NOT NULL,
-    CONSTRAINT "pk_ESRB_Rating" PRIMARY KEY (
-        "Game_ID"
+CREATE TABLE "esbr_rating" (
+    "game_id" int   NOT NULL,
+    "esrb_rating" VARCHAR   NOT NULL,
+    CONSTRAINT "pk_esbr_rating" PRIMARY KEY (
+        "game_id"
      )
 );
 
-CREATE TABLE "Sales_Platform" (
+CREATE TABLE "sales_platform" (
     "platform_id" VARCHAR   NOT NULL,
-    "Game_ID" int   NOT NULL,
-    "Sales_Units_in_millions" DEC   NOT NULL,
-    CONSTRAINT "pk_Sales_Platform" PRIMARY KEY (
-        "platform_id","Game_ID"
+    "game_id" int   NOT NULL,
+    "sales_units_in_millions" DEC   NOT NULL,
+    CONSTRAINT "pk_sales_platform" PRIMARY KEY (
+        "platform_id","game_id"
      )
 );
 
-ALTER TABLE "Ratings" ADD CONSTRAINT "fk_Ratings_Game_ID" FOREIGN KEY("Game_ID")
-REFERENCES "Game" ("Game_ID");
+CREATE TABLE "game_platform" (
+    "platform_id" VARCHAR   NOT NULL,
+    "game_id" int   NOT NULL,
+    CONSTRAINT "pk_game_platform" PRIMARY KEY (
+        "platform_id","game_id"
+     )
+);
 
-ALTER TABLE "ESRB_Rating" ADD CONSTRAINT "fk_ESRB_Rating_Game_ID" FOREIGN KEY("Game_ID")
-REFERENCES "Game" ("Game_ID");
+ALTER TABLE "ratings" ADD CONSTRAINT "fk_ratings_game_id" FOREIGN KEY("game_id")
+REFERENCES "game" ("game_id");
 
-ALTER TABLE "Sales_Platform" ADD CONSTRAINT "fk_Sales_Platform_platform_id" FOREIGN KEY("platform_id")
-REFERENCES "Platform" ("platform_id");
+ALTER TABLE "esbr_rating" ADD CONSTRAINT "fk_esbr_rating_game_id" FOREIGN KEY("game_id")
+REFERENCES "game" ("game_id");
 
-ALTER TABLE "Sales_Platform" ADD CONSTRAINT "fk_Sales_Platform_Game_ID" FOREIGN KEY("Game_ID")
-REFERENCES "Game" ("Game_ID");
+ALTER TABLE "sales_platform" ADD CONSTRAINT "fk_sales_platform_platform_id" FOREIGN KEY("platform_id")
+REFERENCES "platform" ("platform_id");
 
+ALTER TABLE "sales_platform" ADD CONSTRAINT "fk_sales_platform_game_id" FOREIGN KEY("game_id")
+REFERENCES "game" ("game_id");
+
+ALTER TABLE "game_platform" ADD CONSTRAINT "fk_game_platform_platform_id" FOREIGN KEY("platform_id")
+REFERENCES "platform" ("platform_id");
+
+ALTER TABLE "game_platform" ADD CONSTRAINT "fk_game_platform_game_id" FOREIGN KEY("game_id")
+REFERENCES "game" ("game_id");
