@@ -1,4 +1,4 @@
-
+![image](https://user-images.githubusercontent.com/78628287/123713598-c20cec00-d842-11eb-8bc9-f5f12641ce5b.png)
 
 ## Table of Contents ##
 * [Project Proposal](https://github.com/dalismoapi_call_of_duty_etl#Project-Proposal)
