@@ -17,7 +17,7 @@ Video Games Genre, Sales, Metacritics and ESRB Ratings Database
 ## Data sources
 1) Videogame sales by Units sold(CSV) [Source: Kaggle - Video Games Sales Dataset by SID_TWR](https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)  <br>
 2) RAWG is a video game database and game discovery service. (API/JSON) <br>
- [RAWG API Docmention](https://api.rawg.io/docs/)<br>
+ [RAWG API Documention](https://api.rawg.io/docs/)<br>
  [Get RAWG API Key](https://rawg.io/apidocs)<br>
  [Get list of game](https://api.rawg.io/docs/#tag/games)
  
