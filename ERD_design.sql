@@ -2,32 +2,32 @@
 # To reset the sample schema, replace everything with
 # two dots ('..' - without quotes).
 
+
 Game as game
 -
-GameID PK int
-GameName string
-ReleaseDate string
-Platform string FK -< platform.Platform
-Genre string 
+Game_ID PK int
+Game_Name VARCHAR
+Release_Date date
+Genre VARCHAR 
 
 Platform as platform
----
-GameID int PK FK - Game.GameID
-Platform string FK 
+-
+platform_id pk VARCHAR
 
-
-Sales
----
-GameID int PK FK - Game.GameID
-Sales_units int
 
 Ratings
 -
-GameID int PK FK - Game.GameID
-Metacritic Int
-Rating float
+Game_ID int PK FK - Game.Game_ID
+Metacritic VARCHAR
+Rating VARCHAR
 
 ESRB_Rating
 ----
-GameID int PK FK - Game.GameID
-ESRB_rating string
+Game_ID int PK FK - Game.Game_ID
+ESRB_rating VARCHAR
+
+Sales_Platform
+-
+platform_id VARCHAR PK FK >- platform.platform_id
+Game_ID int PK FK >- game.Game_ID
+Sales_Units_in_millions DEC
