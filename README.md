@@ -5,6 +5,7 @@
 * [Data Source](https://github.com/dalismoapi_call_of_duty_etl#Data-Source)
 * [Technologies](https://github.com/dalismoapi_call_of_duty_etl#Technologies)
 * [ETL Steps](https://github.com/dalismoapi_call_of_duty_etl#ETP-Steps)
+* [Project Proposal](## Project Proposal )
 
 ## Project Proposal 
 # A brief description of your final database
