@@ -11,7 +11,7 @@
 
 ## Project Proposal 
 # A brief description of your final database
-Video Games Genre, Sales, Metacritics and ESRB Ratings Database
+Video Games Genre, Sales, Metacritics and ESRB Ratings Database for the 5 years period (1/1/2012 - 12/31/2016).
 
 # Why our final database will be useful to a Videogame Publisher?
 1) Based on the ESRB rating and the genre of the videogame ad companies can place targeted advertisements in online multiplayer games such as Call of Duty to attract new customers. As a point of reference the ESRB(Entertainment Software Rating Board) is a self-regulatory organization that assigns age and content ratings to consumer video games in North America.
@@ -79,6 +79,7 @@ In Jupyter Notebook
 4) Export data from dataframes to tables<br>
 
 ## Steps to recreate database
+### Option 1 - ETL method <br>
 1) [Get RAWG API Key](https://rawg.io/apidocs)<br>
 2) Create config.py file with RAWG api_key, Postgres username and password<br>
   a) api_key = ""<br>
@@ -87,7 +88,24 @@ In Jupyter Notebook
 3) Create "game_db" database in Postgres<br>
 4) [Create tables using the schema file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/QuickDBD-schema_export.sql)<br>
 5) [Run the python file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/Extract_Transform_Load.ipynb)<br>
-6) [Perform queries from Queries file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/Queries.sql)<br>
+
+### Option 2 - Manual data import to Postgres<br>
+1) As an alternative to running the [ETL python file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/Extract_Transform_Load.ipynb) 
+users can access the game ratings and sales data from the [Resource folder](https://github.com/dalismo/api_call_of_duty_etl/resources):<br>
+[Video Game Sales from 1980 to 2016](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/clean_vg_sales.csv)<br>
+[Video Game Ratings data from 2012 to 2016](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/rawg_vg_data.csv)<br>
+[Video Game Sales and Rating data from 2012 to 2016 (CSV)](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/rawg_vg_data.csv)<br>
+[Video Game Sales and Rating data from 2012 to 2016 (JSON)](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/rawg_vg_data.json)<br>
+
+2) [Create tables using the schema file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/QuickDBD-schema_export.sql)<br>
+3) Import the data into the table:<br>
+[game data](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/games.csv) <br> 
+[platform data](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/platforms.csv)<br>
+[ratings data](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/ratings.csv)<br> 
+[esrb rating data](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/esrb.csv)<br>
+[sales data](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/sales.csv)<br>
+[games platform data](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/game_platforms.csv)<br>
+4) [Perform queries from Queries file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/Queries.sql)<br>
 
 ## Example Queries                                                        
 ## Tables:
