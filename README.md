@@ -34,6 +34,9 @@ Video Games Genre, Sales, Metacritics and ESRB Ratings Database
   - requests 
   - pprint import pprint
   - time
+  
+## Entity Relational Database (ERD) design 
+![](https://github.com/dalismo/api_call_of_duty_etl/blob/ba8ab844d93b084f2b44e170c624e30bd9c9cdf3/QuickDBD-export.png)
 
 ## ETL Step 
 
