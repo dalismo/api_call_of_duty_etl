@@ -140,3 +140,10 @@ ON s.game_id = g.game_id
 WHERE (s.game_id = 3498)
 AND (platform_id = 'PS4' OR platform_id = 'XOne')
 ```                                                         
+#### Team Roles
+
+| Team Member           | Role                          | Github username |        
+| -----------           | -----------                   | -----------
+| Adriana Icasiano      | Postgres Ruler                | adriana-icasiano |
+| Paul Feliciano        | El Rey de SQL                 | pfeliciano1      |
+| Alberto Gonzalez      | Data Cleaner                  | dalismo          |
