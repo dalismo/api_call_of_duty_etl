@@ -8,9 +8,9 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 18142,Oil Rush,2012-01-25,2.38,67.0,None,PC,Strategy,0.02
 87795,Tropico 3: Gold Edition,2012-01-26,0.0,Not Rated,None,PC,Strategy,0.01
 719,Deponia,2012-01-27,3.85,74.0,Teen,PC,Adventure,0.15
-578,Star Trek Online,2012-01-31,2.79,76.0,Teen,PC,Role-Playing,0.02
 5617,NeverDead,2012-01-31,3.03,Not Rated,Mature,X360,Shooter,0.1
 5617,NeverDead,2012-01-31,3.03,Not Rated,Mature,PS3,Shooter,0.12
+578,Star Trek Online,2012-01-31,2.79,76.0,Teen,PC,Role-Playing,0.02
 4229,Ragnarok Odyssey,2012-02-02,3.5,Not Rated,Teen,PSV,Role-Playing,0.4
 4229,Ragnarok Odyssey,2012-02-02,3.5,Not Rated,Teen,PS3,Role-Playing,0.04
 4185,Kingdoms of Amalur: Reckoning,2012-02-07,3.64,81.0,Adults Only,PC,Role-Playing,0.3
@@ -19,48 +19,48 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 4223,The Darkness II,2012-02-07,3.7,77.0,Mature,X360,Shooter,0.39
 4223,The Darkness II,2012-02-07,3.7,77.0,Mature,PC,Shooter,0.14
 4223,The Darkness II,2012-02-07,3.7,77.0,Mature,PS3,Shooter,0.32
+4348,Gravity Rush,2012-02-09,3.93,83.0,Teen,PSV,Action,0.56
 41063,Grand Slam Tennis 2,2012-02-09,0.0,Not Rated,None,PS3,Sports,0.23
 41063,Grand Slam Tennis 2,2012-02-09,0.0,Not Rated,None,X360,Sports,0.18
-4348,Gravity Rush,2012-02-09,3.93,83.0,Teen,PSV,Action,0.56
+4145,Twisted Metal,2012-02-14,3.51,76.0,Teen,PS,Action,1.56
 28577,Ninja Gaiden 3,2012-02-14,3.29,Not Rated,Mature,X360,Action,0.25
 28577,Ninja Gaiden 3,2012-02-14,3.29,Not Rated,Mature,PS3,Action,0.43
 28577,Ninja Gaiden 3,2012-02-14,3.29,Not Rated,Mature,WiiU,Action,0.18
-4145,Twisted Metal,2012-02-14,3.51,76.0,Teen,PS,Action,1.56
 4461,Little Deviants,2012-02-14,2.58,Not Rated,Everyone 10+,PSV,Platform,0.3
 4225,Zero Escape: Virtue's Last Reward,2012-02-16,4.39,Not Rated,Mature,3DS,Adventure,0.03
 3965,Binary Domain,2012-02-16,3.58,68.0,Mature,PS3,Action,0.33
 3965,Binary Domain,2012-02-16,3.58,68.0,Mature,X360,Action,0.19
-4435,MotorStorm RC,2012-02-22,3.06,Not Rated,Everyone 10+,PSV,Racing,0.06
 4429,Reality Fighters,2012-02-22,2.22,Not Rated,Teen,PSV,Fighting,0.12
-24244,Shin Megami Tensei: Devil Survivor 2,2012-02-28,0.0,Not Rated,Mature,DS,Role-Playing,0.31
-24244,Shin Megami Tensei: Devil Survivor 2,2012-02-28,0.0,Not Rated,Mature,3DS,Role-Playing,0.12
+4435,MotorStorm RC,2012-02-22,3.06,Not Rated,Everyone 10+,PSV,Racing,0.06
 4284,SSX,2012-02-28,3.52,82.0,Everyone 10+,PS2,Sports,1.66
 4284,SSX,2012-02-28,3.52,82.0,Everyone 10+,X360,Sports,0.7
 4284,SSX,2012-02-28,3.52,82.0,Everyone 10+,PS3,Sports,0.91
+24244,Shin Megami Tensei: Devil Survivor 2,2012-02-28,0.0,Not Rated,Mature,DS,Role-Playing,0.31
+24244,Shin Megami Tensei: Devil Survivor 2,2012-02-28,0.0,Not Rated,Mature,3DS,Role-Playing,0.12
 4254,One Piece: Pirate Warriors,2012-03-01,3.43,Not Rated,Teen,PS3,Action,1.18
 4439,Mass Effect 3,2012-03-05,4.4,90.0,Mature,PS3,Role-Playing,1.42
 4439,Mass Effect 3,2012-03-05,4.4,90.0,Mature,PC,Role-Playing,0.97
 4439,Mass Effect 3,2012-03-05,4.4,90.0,Mature,WiiU,Role-Playing,0.27
 4439,Mass Effect 3,2012-03-05,4.4,90.0,Mature,X360,Role-Playing,3.04
-4438,Unit 13,2012-03-06,2.84,Not Rated,Teen,PSV,Shooter,0.5
 14784,Blades of Time,2012-03-06,3.24,63.0,Mature,PS3,Action,0.1
 14784,Blades of Time,2012-03-06,3.24,63.0,Mature,X360,Action,0.1
+4438,Unit 13,2012-03-06,2.84,Not Rated,Teen,PSV,Shooter,0.5
 5694,Top Gun: Hard Lock,2012-03-09,0.0,Not Rated,Teen,PS3,Action,0.03
 5694,Top Gun: Hard Lock,2012-03-09,0.0,Not Rated,Teen,X360,Action,0.06
 24247,Mario Party 9,2012-03-11,3.09,73.0,Everyone,Wii,Misc,3.13
-3254,Journey,2012-03-13,4.35,92.0,None,PS3,Adventure,0.21
-4067,Tales of Graces f,2012-03-13,3.86,Not Rated,Teen,PS3,Role-Playing,0.98
+3254,Journey,2012-03-13,4.34,92.0,None,PS3,Adventure,0.21
 29082,Silent Hill: Downpour,2012-03-13,3.31,Not Rated,Mature,X360,Action,0.32
 29082,Silent Hill: Downpour,2012-03-13,3.31,Not Rated,Mature,PS3,Action,0.46
+4067,Tales of Graces f,2012-03-13,3.86,Not Rated,Teen,PS3,Role-Playing,0.98
 4293,Legasista,2012-03-15,0.0,Not Rated,Teen,PS3,Role-Playing,0.04
 19567,Resident Evil: Operation Raccoon City,2012-03-20,2.66,48.0,Adults Only,X360,Action,0.77
 19567,Resident Evil: Operation Raccoon City,2012-03-20,2.66,48.0,Adults Only,PS3,Action,1.17
 19567,Resident Evil: Operation Raccoon City,2012-03-20,2.66,48.0,Adults Only,PC,Action,0.04
+14935,Total War: Shogun 2 - Fall of the Samurai,2012-03-22,4.36,86.0,None,PC,Strategy,0.2
+4009,Mugen Souls,2012-03-22,3.0,Not Rated,Teen,PS3,Role-Playing,0.15
 28583,Kinect Star Wars,2012-03-22,3.15,Not Rated,Teen,X360,Action,1.74
 4234,Devil May Cry HD Collection,2012-03-22,4.28,70.0,Mature,X360,Action,0.43
 4234,Devil May Cry HD Collection,2012-03-22,4.28,70.0,Mature,PS3,Action,0.82
-4009,Mugen Souls,2012-03-22,3.0,Not Rated,Teen,PS3,Role-Playing,0.15
-14935,Total War: Shogun 2 - Fall of the Samurai,2012-03-22,4.36,86.0,None,PC,Strategy,0.2
 27124,Kid Icarus: Uprising,2012-03-23,4.3,83.0,None,3DS,Action,1.27
 23916,Pandora's Tower,2012-04-13,4.21,Not Rated,None,Wii,Role-Playing,0.31
 4410,Disgaea 3: Absence of Detention,2012-04-17,3.35,Not Rated,Teen,PSV,Role-Playing,0.27
@@ -87,12 +87,12 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 267220,Game of Thrones,2012-05-15,3.14,Not Rated,None,PS3,Role-Playing,0.24
 267220,Game of Thrones,2012-05-15,3.14,Not Rated,None,PC,Role-Playing,0.08
 27133,Mario Tennis Open,2012-05-20,3.67,Not Rated,None,3DS,Sports,0.95
-4297,Dragon's Dogma,2012-05-22,4.23,Not Rated,Mature,PS3,Role-Playing,1.74
-4297,Dragon's Dogma,2012-05-22,4.23,Not Rated,Mature,X360,Role-Playing,0.79
-4369,Sorcery,2012-05-22,3.62,Not Rated,Everyone 10+,PS3,Action,0.29
 4345,Tom Clancy's Ghost Recon: Future Soldier,2012-05-22,3.67,71.0,Mature,X360,Shooter,1.47
 4345,Tom Clancy's Ghost Recon: Future Soldier,2012-05-22,3.67,71.0,Mature,PS3,Shooter,0.95
 4345,Tom Clancy's Ghost Recon: Future Soldier,2012-05-22,3.67,71.0,Mature,PC,Shooter,0.17
+4297,Dragon's Dogma,2012-05-22,4.23,Not Rated,Mature,PS3,Role-Playing,1.74
+4297,Dragon's Dogma,2012-05-22,4.23,Not Rated,Mature,X360,Role-Playing,0.79
+4369,Sorcery,2012-05-22,3.62,Not Rated,Everyone 10+,PS3,Action,0.29
 4347,DiRT Showdown,2012-05-24,3.26,74.0,Everyone 10+,X360,Racing,0.23
 4347,DiRT Showdown,2012-05-24,3.26,74.0,Everyone 10+,PS3,Racing,0.18
 4362,Resistance: Burning Skies,2012-05-29,3.37,Not Rated,Mature,PSV,Shooter,0.41
@@ -114,18 +114,18 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 27159,New Super Mario Bros. 2,2012-07-28,3.69,78.0,Everyone,3DS,Platform,9.9
 10824,The Book of Unwritten Tales,2012-07-30,3.58,82.0,Teen,PC,Adventure,0.1
 12010,Real Heroes: Firefighter,2012-08-10,0.0,Not Rated,None,Wii,Action,0.64
-4179,Darksiders II,2012-08-14,3.71,83.0,Mature,PC,Action,0.15
-4179,Darksiders II,2012-08-14,3.71,83.0,Mature,WiiU,Action,0.15
-4179,Darksiders II,2012-08-14,3.71,83.0,Mature,X360,Action,0.79
-4179,Darksiders II,2012-08-14,3.71,83.0,Mature,PS3,Action,0.84
-4179,Darksiders II,2012-08-14,3.71,83.0,Mature,XOne,Action,0.06
-4179,Darksiders II,2012-08-14,3.71,83.0,Mature,PS4,Action,0.22
 16113,Sleeping Dogs,2012-08-14,4.1,81.0,Mature,PS3,Action,1.04
 16113,Sleeping Dogs,2012-08-14,4.1,81.0,Mature,X360,Action,0.87
 16113,Sleeping Dogs,2012-08-14,4.1,81.0,Mature,PC,Action,0.12
 16113,Sleeping Dogs,2012-08-14,4.1,81.0,Mature,PS4,Action,0.43
 16113,Sleeping Dogs,2012-08-14,4.1,81.0,Mature,XOne,Action,0.2
 26898,The Last Story,2012-08-14,4.16,80.0,None,Wii,Role-Playing,0.65
+4179,Darksiders II,2012-08-14,3.71,83.0,Mature,PC,Action,0.15
+4179,Darksiders II,2012-08-14,3.71,83.0,Mature,WiiU,Action,0.15
+4179,Darksiders II,2012-08-14,3.71,83.0,Mature,X360,Action,0.79
+4179,Darksiders II,2012-08-14,3.71,83.0,Mature,PS3,Action,0.84
+4179,Darksiders II,2012-08-14,3.71,83.0,Mature,XOne,Action,0.06
+4179,Darksiders II,2012-08-14,3.71,83.0,Mature,PS4,Action,0.22
 4273,Madden NFL 13,2012-08-28,2.68,Not Rated,Everyone 10+,WiiU,Sports,0.23
 4273,Madden NFL 13,2012-08-28,2.68,Not Rated,Everyone 10+,PSV,Sports,2.57
 4273,Madden NFL 13,2012-08-28,2.68,Not Rated,Everyone 10+,PS3,Sports,2.56
@@ -136,13 +136,13 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3824,Hyperdimension Neptunia Victory,2012-08-30,0.0,Not Rated,Teen,PSV,Role-Playing,0.07
 29063,NHL 13,2012-09-11,3.12,84.0,Everyone 10+,X360,Sports,0.66
 29063,NHL 13,2012-09-11,3.12,84.0,Everyone 10+,PS3,Sports,0.64
-4267,F1 2012,2012-09-18,3.88,80.0,None,PC,Racing,0.15
-4267,F1 2012,2012-09-18,3.88,80.0,None,X360,Racing,0.49
-4267,F1 2012,2012-09-18,3.88,80.0,None,PS3,Racing,1.03
 802,Borderlands 2,2012-09-18,4.05,89.0,Mature,PS3,Shooter,2.23
 802,Borderlands 2,2012-09-18,4.05,89.0,Mature,X360,Shooter,3.05
 802,Borderlands 2,2012-09-18,4.05,89.0,Mature,PC,Shooter,0.93
 802,Borderlands 2,2012-09-18,4.05,89.0,Mature,PSV,Shooter,0.64
+4267,F1 2012,2012-09-18,3.88,80.0,None,PC,Racing,0.15
+4267,F1 2012,2012-09-18,3.88,80.0,None,X360,Racing,0.49
+4267,F1 2012,2012-09-18,3.88,80.0,None,PS3,Racing,1.03
 24227,Pro Evolution Soccer 2013,2012-09-19,4.29,Not Rated,None,PC,Sports,0.08
 24227,Pro Evolution Soccer 2013,2012-09-19,4.29,Not Rated,None,PS3,Sports,1.53
 24227,Pro Evolution Soccer 2013,2012-09-19,4.29,Not Rated,None,3DS,Sports,0.18
@@ -152,20 +152,20 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 17659,The Testament of Sherlock Holmes,2012-09-20,3.45,73.0,Mature,PC,Adventure,0.07
 17659,The Testament of Sherlock Holmes,2012-09-20,3.45,73.0,Mature,PS3,Adventure,0.24
 17659,The Testament of Sherlock Holmes,2012-09-20,3.45,73.0,Mature,X360,Adventure,0.02
+4251,LittleBigPlanet PS Vita,2012-09-25,3.91,88.0,Everyone,PSV,Platform,1.25
+4248,Dishonored,2012-09-25,4.37,91.0,Mature,X360,Action,1.71
+4248,Dishonored,2012-09-25,4.37,91.0,Mature,PS3,Action,1.53
+4248,Dishonored,2012-09-25,4.37,91.0,Mature,PC,Action,0.51
+4248,Dishonored,2012-09-25,4.37,91.0,Mature,XOne,Action,0.15
+4248,Dishonored,2012-09-25,4.37,91.0,Mature,PS4,Action,0.39
+3879,Angry Birds Trilogy,2012-09-25,3.48,64.0,Everyone 10+,PS3,Action,0.16
+3879,Angry Birds Trilogy,2012-09-25,3.48,64.0,Everyone 10+,3DS,Action,0.63
+3879,Angry Birds Trilogy,2012-09-25,3.48,64.0,Everyone 10+,X360,Action,0.26
 4247,Dead or Alive 5,2012-09-25,3.46,Not Rated,Mature,X360,Fighting,0.32
 4247,Dead or Alive 5,2012-09-25,3.46,Not Rated,Mature,PS3,Fighting,0.64
 4247,Dead or Alive 5,2012-09-25,3.46,Not Rated,Mature,PSV,Fighting,0.09
 4247,Dead or Alive 5,2012-09-25,3.46,Not Rated,Mature,PS4,Fighting,0.34
 4247,Dead or Alive 5,2012-09-25,3.46,Not Rated,Mature,XOne,Fighting,0.09
-3879,Angry Birds Trilogy,2012-09-25,3.48,64.0,Everyone 10+,PS3,Action,0.16
-3879,Angry Birds Trilogy,2012-09-25,3.48,64.0,Everyone 10+,3DS,Action,0.63
-3879,Angry Birds Trilogy,2012-09-25,3.48,64.0,Everyone 10+,X360,Action,0.26
-4248,Dishonored,2012-09-25,4.36,91.0,Mature,X360,Action,1.71
-4248,Dishonored,2012-09-25,4.36,91.0,Mature,PS3,Action,1.53
-4248,Dishonored,2012-09-25,4.36,91.0,Mature,PC,Action,0.51
-4248,Dishonored,2012-09-25,4.36,91.0,Mature,XOne,Action,0.15
-4248,Dishonored,2012-09-25,4.36,91.0,Mature,PS4,Action,0.39
-4251,LittleBigPlanet PS Vita,2012-09-25,3.91,88.0,Everyone,PSV,Platform,1.25
 41162,World of Warcraft: Mists of Pandaria,2012-09-25,3.97,82.0,Teen,PC,Role-Playing,1.82
 4156,Earth Defense Force 2017 Portable,2012-09-27,3.38,Not Rated,Teen,PSV,Action,0.06
 3829,Ys: Memories of Celceta,2012-09-27,3.85,Not Rated,Teen,PSV,Action,0.24
@@ -199,9 +199,9 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 4237,Spy Hunter,2012-10-09,3.67,Not Rated,Everyone 10+,GC,Racing,0.2
 41416,Time and Eternity,2012-10-11,0.0,Not Rated,None,PS3,Role-Playing,0.17
 4230,Silent Hill: Book of Memories,2012-10-16,2.5,Not Rated,Mature,PSV,Action,0.2
+28529,Dance Central 3,2012-10-16,3.62,Not Rated,Teen,X360,Misc,0.81
 26909,Zumba Fitness Core,2012-10-16,0.0,Not Rated,Everyone 10+,Wii,Misc,0.06
 26909,Zumba Fitness Core,2012-10-16,0.0,Not Rated,Everyone 10+,X360,Misc,0.05
-28529,Dance Central 3,2012-10-16,3.62,Not Rated,Teen,X360,Misc,0.81
 9609,Euro Truck Simulator 2,2012-10-19,4.05,79.0,Everyone,PC,Action,0.13
 5656,Skylanders Giants,2012-10-19,3.52,74.0,Everyone 10+,WiiU,Action,0.37
 5656,Skylanders Giants,2012-10-19,3.52,74.0,Everyone 10+,3DS,Action,0.14
@@ -217,21 +217,20 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 41607,Farming Simulator 2013,2012-10-25,3.88,Not Rated,None,PS3,Simulation,0.14
 4117,Zone of the Enders HD Collection,2012-10-25,4.27,Not Rated,Teen,X360,Simulation,0.2
 4117,Zone of the Enders HD Collection,2012-10-25,4.27,Not Rated,Teen,PS3,Simulation,0.42
-28444,Nike+ Kinect Training,2012-10-30,3.5,Not Rated,Everyone,X360,Sports,0.04
 4209,Assassin's Creed III: Liberation,2012-10-30,3.08,70.0,Mature,PSV,Action,1.32
 26914,WWE '13,2012-10-30,3.6,Not Rated,Teen,PS3,Action,1.35
 26914,WWE '13,2012-10-30,3.6,Not Rated,Teen,Wii,Action,0.15
 26914,WWE '13,2012-10-30,3.6,Not Rated,Teen,X360,Action,1.27
+28444,Nike+ Kinect Training,2012-10-30,3.5,Not Rated,Everyone,X360,Sports,0.04
 4175,Ratchet & Clank: Full Frontal Assault,2012-10-31,3.58,64.0,Everyone 10+,PS3,Adventure,0.23
 4073,Dollar Dash,2012-10-31,2.4,Not Rated,None,PS2,Action,1.6
 41659,Football Manager 2013,2012-11-02,4.12,86.0,None,PC,Sports,1.15
+4199,LittleBigPlanet Karting,2012-11-06,3.09,Not Rated,Everyone 10+,PS3,Action,0.87
 27181,Harvest Moon 3D: A New Beginning,2012-11-06,3.86,Not Rated,None,3DS,Action,0.91
+28627,Halo 4,2012-11-06,3.79,86.0,Mature,X360,Shooter,9.71
 4167,Mass Effect Trilogy,2012-11-06,4.77,Not Rated,Mature,X360,Action,0.4
 4167,Mass Effect Trilogy,2012-11-06,4.77,Not Rated,Mature,PC,Action,0.27
 4167,Mass Effect Trilogy,2012-11-06,4.77,Not Rated,Mature,PS3,Action,0.43
-4199,LittleBigPlanet Karting,2012-11-06,3.09,Not Rated,Everyone 10+,PS3,Action,0.87
-28627,Halo 4,2012-11-06,3.79,86.0,Mature,X360,Shooter,9.71
-27953,Animal Crossing: New Leaf,2012-11-08,4.38,88.0,Everyone,3DS,Simulation,9.16
 1914,Angry Birds Star Wars,2012-11-08,3.42,Not Rated,None,PS3,Strategy,0.29
 1914,Angry Birds Star Wars,2012-11-08,3.42,Not Rated,None,Wii,Strategy,0.26
 1914,Angry Birds Star Wars,2012-11-08,3.42,Not Rated,None,XOne,Strategy,0.16
@@ -240,6 +239,7 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 1914,Angry Birds Star Wars,2012-11-08,3.42,Not Rated,None,3DS,Strategy,0.34
 1914,Angry Birds Star Wars,2012-11-08,3.42,Not Rated,None,WiiU,Strategy,0.1
 1914,Angry Birds Star Wars,2012-11-08,3.42,Not Rated,None,PSV,Strategy,0.08
+27953,Animal Crossing: New Leaf,2012-11-08,4.38,88.0,Everyone,3DS,Simulation,9.16
 27185,Paper Mario: Sticker Star,2012-11-11,3.07,75.0,Everyone,3DS,Role-Playing,2.3
 14446,Call of Duty: Black Ops II,2012-11-13,3.92,74.0,Mature,X360,Shooter,13.67
 14446,Call of Duty: Black Ops II,2012-11-13,3.92,74.0,Mature,PS3,Shooter,13.79
@@ -252,11 +252,11 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 966,Sonic & All-Stars Racing Transformed,2012-11-16,3.89,79.0,Everyone 10+,X360,Racing,0.58
 966,Sonic & All-Stars Racing Transformed,2012-11-16,3.89,79.0,Everyone 10+,PS3,Racing,0.49
 966,Sonic & All-Stars Racing Transformed,2012-11-16,3.89,79.0,Everyone 10+,PC,Racing,0.01
-27967,New Super Mario Bros. U,2012-11-18,3.83,84.0,Everyone,WiiU,Platform,5.22
 27196,Nintendo Land,2012-11-18,4.08,Not Rated,None,WiiU,Misc,4.42
 27192,ZombiU,2012-11-18,3.86,Not Rated,None,WiiU,Action,1.01
 27192,ZombiU,2012-11-18,3.86,Not Rated,None,XOne,Action,0.01
 27192,ZombiU,2012-11-18,3.86,Not Rated,None,PS4,Action,0.06
+27967,New Super Mario Bros. U,2012-11-18,3.83,84.0,Everyone,WiiU,Platform,5.22
 5583,Hitman: Absolution,2012-11-19,3.71,79.0,Mature,PS3,Action,2.14
 5583,Hitman: Absolution,2012-11-19,3.71,79.0,Mature,X360,Action,1.73
 5583,Hitman: Absolution,2012-11-19,3.71,79.0,Mature,PC,Action,0.24
@@ -271,20 +271,20 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 28543,PowerUp Heroes,2012-12-04,0.0,Not Rated,Everyone 10+,X360,Fighting,0.3
 2977,Yakuza 5,2012-12-06,4.39,83.0,Mature,PS3,Action,0.59
 27265,Project X Zone,2012-12-11,3.4,Not Rated,None,3DS,Role-Playing,0.39
-4136,Disgaea: Hour of Darkness,2013-01-15,0.0,Not Rated,Teen,PS2,Role-Playing,0.33
 18241,DmC: Devil May Cry,2013-01-15,4.0,85.0,Mature,X360,Action,0.44
 18241,DmC: Devil May Cry,2013-01-15,4.0,85.0,Mature,PS3,Action,0.79
 18241,DmC: Devil May Cry,2013-01-15,4.0,85.0,Mature,XOne,Action,0.14
 18241,DmC: Devil May Cry,2013-01-15,4.0,85.0,Mature,PS4,Action,0.31
+4136,Disgaea: Hour of Darkness,2013-01-15,0.0,Not Rated,Teen,PS2,Role-Playing,0.33
 42056,The Guided Fate Paradox,2013-01-24,0.0,Not Rated,None,PS3,Role-Playing,0.07
 41362,Omerta: City of Gangsters,2013-01-31,0.0,Not Rated,None,PS3,Simulation,1.1
 41362,Omerta: City of Gangsters,2013-01-31,0.0,Not Rated,None,X360,Simulation,0.7
+4151,Bentley's Hackpack,2013-02-05,0.0,Not Rated,None,GBA,Misc,0.93
 4154,Dead Space 3,2013-02-05,3.61,77.0,Mature,X360,Action,0.98
 4154,Dead Space 3,2013-02-05,3.61,77.0,Mature,PS3,Action,0.96
 4154,Dead Space 3,2013-02-05,3.61,77.0,Mature,PC,Action,0.19
 4098,Sly Cooper: Thieves in Time,2013-02-05,3.71,Not Rated,Everyone 10+,PSV,Platform,0.25
 4098,Sly Cooper: Thieves in Time,2013-02-05,3.71,Not Rated,Everyone 10+,PS3,Platform,0.54
-4151,Bentley's Hackpack,2013-02-05,0.0,Not Rated,None,GBA,Misc,0.93
 3991,Aliens: Colonial Marines,2013-02-11,2.74,Not Rated,Mature,PC,Shooter,0.18
 3991,Aliens: Colonial Marines,2013-02-11,2.74,Not Rated,Mature,PS3,Shooter,0.6
 3991,Aliens: Colonial Marines,2013-02-11,2.74,Not Rated,Mature,X360,Shooter,0.77
@@ -293,34 +293,34 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 4125,Crysis 3,2013-02-19,3.65,76.0,Mature,PS3,Shooter,0.87
 4094,Metal Gear Rising: Revengeance,2013-02-19,4.16,83.0,None,PS3,Action,1.42
 4094,Metal Gear Rising: Revengeance,2013-02-19,4.16,83.0,None,X360,Action,0.48
+24039,Professor Layton and the Azran Legacy,2013-02-28,4.36,81.0,None,3DS,Puzzle,0.75
 3958,Dynasty Warriors 8,2013-02-28,3.39,Not Rated,Teen,X360,Action,0.15
 3958,Dynasty Warriors 8,2013-02-28,3.39,Not Rated,Teen,PS3,Action,0.6
-24039,Professor Layton and the Azran Legacy,2013-02-28,4.36,81.0,None,3DS,Puzzle,0.75
 41324,SimCity (2013),2013-03-05,3.64,64.0,Everyone 10+,PC,Simulation,1.42
-4090,Atelier Ayesha: The Alchemist of Dusk,2013-03-05,0.0,Not Rated,Teen,PS3,Role-Playing,0.26
-4090,Atelier Ayesha: The Alchemist of Dusk,2013-03-05,0.0,Not Rated,Teen,PSV,Role-Playing,0.05
-27230,Castlevania: Lords of Shadow - Mirror of Fate,2013-03-05,3.8,72.0,Mature,3DS,Action,0.15
 41782,MLB 13: The Show,2013-03-05,0.0,Not Rated,None,PSV,Sports,0.11
 41782,MLB 13: The Show,2013-03-05,0.0,Not Rated,None,PS3,Sports,0.74
+4090,Atelier Ayesha: The Alchemist of Dusk,2013-03-05,0.0,Not Rated,Teen,PS3,Role-Playing,0.26
+4090,Atelier Ayesha: The Alchemist of Dusk,2013-03-05,0.0,Not Rated,Teen,PSV,Role-Playing,0.05
 5286,Tomb Raider (2013),2013-03-05,4.07,86.0,Mature,PS3,Action,2.42
 5286,Tomb Raider (2013),2013-03-05,4.07,86.0,Mature,X360,Action,1.89
 5286,Tomb Raider (2013),2013-03-05,4.07,86.0,Mature,XOne,Action,0.61
 5286,Tomb Raider (2013),2013-03-05,4.07,86.0,Mature,PS4,Action,1.4
 5286,Tomb Raider (2013),2013-03-05,4.07,86.0,Mature,PC,Action,0.35
+27230,Castlevania: Lords of Shadow - Mirror of Fate,2013-03-05,3.8,72.0,Mature,3DS,Action,0.15
 4026,Soul Sacrifice,2013-03-07,3.35,Not Rated,Mature,PSV,Role-Playing,0.51
-4077,Darkstalkers Resurrection,2013-03-12,3.59,Not Rated,Teen,PS3,Fighting,0.03
-38945,StarCraft II: Heart of the Swarm,2013-03-12,4.52,Not Rated,Teen,PC,Strategy,1.67
-3882,God of War: Ascension,2013-03-12,3.81,80.0,Mature,PS3,Action,2.25
 17600,Sniper: Ghost Warrior 2,2013-03-12,3.09,52.0,Mature,X360,Shooter,0.2
 17600,Sniper: Ghost Warrior 2,2013-03-12,3.09,52.0,Mature,PS3,Shooter,0.33
 17600,Sniper: Ghost Warrior 2,2013-03-12,3.09,52.0,Mature,PC,Shooter,0.08
+3882,God of War: Ascension,2013-03-12,3.81,80.0,Mature,PS3,Action,2.25
+38945,StarCraft II: Heart of the Swarm,2013-03-12,4.52,Not Rated,Teen,PC,Strategy,1.67
+4077,Darkstalkers Resurrection,2013-03-12,3.59,Not Rated,Teen,PS3,Fighting,0.03
 28628,Gears of War: Judgment,2013-03-19,3.51,79.0,Mature,X360,Shooter,1.57
 24101,The Walking Dead: Survival Instinct,2013-03-19,2.38,35.0,Mature,PS3,Shooter,0.51
 24101,The Walking Dead: Survival Instinct,2013-03-19,2.38,35.0,Mature,WiiU,Shooter,0.11
 24101,The Walking Dead: Survival Instinct,2013-03-19,2.38,35.0,Mature,X360,Shooter,0.63
-27235,Luigi's Mansion: Dark Moon,2013-03-20,4.04,Not Rated,None,3DS,Action,4.59
 41785,One Piece: Pirate Warriors 2,2013-03-20,3.67,Not Rated,None,PS3,Action,0.66
 41785,One Piece: Pirate Warriors 2,2013-03-20,3.67,Not Rated,None,PSV,Action,0.12
+27235,Luigi's Mansion: Dark Moon,2013-03-20,4.04,Not Rated,None,3DS,Action,4.59
 4062,BioShock Infinite,2013-03-26,4.39,94.0,Mature,X360,Shooter,1.93
 4062,BioShock Infinite,2013-03-26,4.39,94.0,Mature,PC,Shooter,0.66
 4062,BioShock Infinite,2013-03-26,4.39,94.0,Mature,PS3,Shooter,1.69
@@ -341,11 +341,11 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 28395,Metro: Last Light,2013-05-13,4.1,81.0,Mature,XOne,Action,0.31
 27253,Fast & Furious: Showdown,2013-05-21,2.17,Not Rated,None,PS3,Action,0.02
 27253,Fast & Furious: Showdown,2013-05-21,2.17,Not Rated,None,X360,Action,0.03
-24075,Shin Megami Tensei IV,2013-05-23,4.47,83.0,Mature,3DS,Role-Playing,0.58
 3884,Valhalla Knights 3,2013-05-23,3.43,Not Rated,Mature,PSV,Role-Playing,0.18
-4003,GRID 2,2013-05-27,3.32,80.0,Everyone 10+,X360,Racing,0.27
-4003,GRID 2,2013-05-27,3.32,80.0,Everyone 10+,PC,Racing,0.06
-4003,GRID 2,2013-05-27,3.32,80.0,Everyone 10+,PS3,Racing,0.37
+24075,Shin Megami Tensei IV,2013-05-23,4.47,83.0,Mature,3DS,Role-Playing,0.58
+4003,GRID 2,2013-05-27,3.31,80.0,Everyone 10+,X360,Racing,0.27
+4003,GRID 2,2013-05-27,3.31,80.0,Everyone 10+,PC,Racing,0.06
+4003,GRID 2,2013-05-27,3.31,80.0,Everyone 10+,PS3,Racing,0.37
 16700,The Night of the Rabbit,2013-05-28,3.47,75.0,None,PC,Adventure,0.03
 29001,Two Worlds,2013-06-01,3.18,58.0,Mature,X360,Role-Playing,0.7
 4000,Remember Me,2013-06-04,3.66,65.0,Mature,PS3,Action,0.32
@@ -366,29 +366,29 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 10243,Company of Heroes 2,2013-06-25,3.14,80.0,None,PC,Strategy,0.34
 27309,Etrian Odyssey Untold: The Millennium Girl,2013-06-27,3.83,Not Rated,None,3DS,Role-Playing,0.26
 1412,Colin McRae Rally,2013-06-27,3.27,Not Rated,None,PS,Racing,2.87
+28562,Rise of Nightmares,2013-07-09,3.12,Not Rated,Mature,X360,Action,0.47
 3946,Metal Gear Solid: The Legacy Collection,2013-07-09,4.44,Not Rated,Mature,PS3,Adventure,0.4
 3971,NCAA Football 14,2013-07-09,4.22,Not Rated,Everyone 10+,X360,Sports,1.09
 3971,NCAA Football 14,2013-07-09,4.22,Not Rated,Everyone 10+,PS3,Sports,0.84
-28562,Rise of Nightmares,2013-07-09,3.12,Not Rated,Mature,X360,Action,0.47
 27284,Mario & Luigi: Dream Team,2013-07-12,4.09,81.0,Everyone 10+,3DS,Role-Playing,2.08
 27973,Pikmin 3,2013-07-13,4.38,87.0,Everyone 10+,WiiU,Strategy,1.11
+3957,Capcom vs. SNK 2: Mark of the Millennium 2001,2013-07-16,4.33,Not Rated,Teen,PS2,Fighting,0.75
 24204,Turbo: Super Stunt Squad,2013-07-16,0.0,Not Rated,Everyone,WiiU,Sports,0.02
 24204,Turbo: Super Stunt Squad,2013-07-16,0.0,Not Rated,Everyone,Wii,Sports,0.02
 24204,Turbo: Super Stunt Squad,2013-07-16,0.0,Not Rated,Everyone,PS3,Sports,0.02
 24204,Turbo: Super Stunt Squad,2013-07-16,0.0,Not Rated,Everyone,X360,Sports,0.01
 24204,Turbo: Super Stunt Squad,2013-07-16,0.0,Not Rated,Everyone,3DS,Sports,0.02
 24204,Turbo: Super Stunt Squad,2013-07-16,0.0,Not Rated,Everyone,DS,Sports,0.03
-3957,Capcom vs. SNK 2: Mark of the Millennium 2001,2013-07-16,4.33,Not Rated,Teen,PS2,Fighting,0.75
 24206,The Smurfs 2,2013-07-23,0.0,Not Rated,Everyone,DS,Platform,0.18
 24206,The Smurfs 2,2013-07-23,0.0,Not Rated,Everyone,Wii,Platform,0.09
 24206,The Smurfs 2,2013-07-23,0.0,Not Rated,Everyone,X360,Platform,0.12
 24206,The Smurfs 2,2013-07-23,0.0,Not Rated,Everyone,PS3,Platform,0.09
 24206,The Smurfs 2,2013-07-23,0.0,Not Rated,Everyone,WiiU,Platform,0.09
-27324,Phoenix Wright: Ace Attorney - Dual Destinies,2013-07-25,4.13,83.0,Mature,3DS,Adventure,0.38
 3941,Dragon's Crown,2013-07-25,3.85,Not Rated,Teen,PS3,Role-Playing,0.53
 3941,Dragon's Crown,2013-07-25,3.85,Not Rated,Teen,PSV,Role-Playing,0.35
 3741,The Witch and the Hundred Knight,2013-07-25,3.57,Not Rated,Teen,PS3,Role-Playing,0.2
 3741,The Witch and the Hundred Knight,2013-07-25,3.57,Not Rated,Teen,PS4,Role-Playing,0.09
+27324,Phoenix Wright: Ace Attorney - Dual Destinies,2013-07-25,4.13,83.0,Mature,3DS,Adventure,0.38
 3683,Mind Zero,2013-08-01,0.0,Not Rated,Teen,PSV,Role-Playing,0.1
 3943,Tales of Xillia,2013-08-06,3.95,Not Rated,Teen,PS3,Role-Playing,1.22
 18240,Brothers: A Tale of Two Sons,2013-08-07,4.2,90.0,Teen,PS4,Adventure,0.14
@@ -404,11 +404,11 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 5545,Disney Infinity,2013-08-18,3.07,73.0,Everyone 10+,PS3,Action,0.97
 5545,Disney Infinity,2013-08-18,3.07,73.0,Everyone 10+,WiiU,Action,0.6
 5545,Disney Infinity,2013-08-18,3.07,73.0,Everyone 10+,Wii,Action,1.6
-3931,Saints Row IV,2013-08-20,3.83,86.0,Mature,PC,Action,0.19
-3931,Saints Row IV,2013-08-20,3.83,86.0,Mature,PS3,Action,1.25
-3931,Saints Row IV,2013-08-20,3.83,86.0,Mature,X360,Action,1.66
-3931,Saints Row IV,2013-08-20,3.83,86.0,Mature,XOne,Action,0.2
-3931,Saints Row IV,2013-08-20,3.83,86.0,Mature,PS4,Action,0.39
+3931,Saints Row IV,2013-08-20,3.84,86.0,Mature,PC,Action,0.19
+3931,Saints Row IV,2013-08-20,3.84,86.0,Mature,PS3,Action,1.25
+3931,Saints Row IV,2013-08-20,3.84,86.0,Mature,X360,Action,1.66
+3931,Saints Row IV,2013-08-20,3.84,86.0,Mature,XOne,Action,0.2
+3931,Saints Row IV,2013-08-20,3.84,86.0,Mature,PS4,Action,0.39
 3932,The Bureau: XCOM Declassified,2013-08-20,3.05,66.0,None,PS3,Shooter,0.25
 3932,The Bureau: XCOM Declassified,2013-08-20,3.05,66.0,None,X360,Shooter,0.21
 3932,The Bureau: XCOM Declassified,2013-08-20,3.05,66.0,None,PC,Shooter,0.05
@@ -451,9 +451,9 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 5783,FIFA 14,2013-09-23,3.34,86.0,Mature,XOne,Sports,1.16
 5783,FIFA 14,2013-09-23,3.34,86.0,Mature,PSV,Sports,0.41
 2998,The Mark of Kri,2013-09-24,0.0,Not Rated,Mature,PS2,Action,0.46
+3901,Armored Core: Verdict Day,2013-09-24,0.0,Not Rated,Teen,PS3,Simulation,0.12
 19294,Scribblenauts Unmasked: A DC Comics Adventure,2013-09-24,3.49,68.0,None,WiiU,Puzzle,0.1
 19294,Scribblenauts Unmasked: A DC Comics Adventure,2013-09-24,3.49,68.0,None,3DS,Puzzle,0.1
-3901,Armored Core: Verdict Day,2013-09-24,0.0,Not Rated,Teen,PS3,Simulation,0.12
 3847,Just Dance 2014,2013-09-25,3.59,Not Rated,None,Wii,Misc,3.59
 3847,Just Dance 2014,2013-09-25,3.59,Not Rated,None,X360,Misc,0.99
 3847,Just Dance 2014,2013-09-25,3.59,Not Rated,None,PS4,Misc,0.41
@@ -469,15 +469,15 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3888,F1 2013,2013-10-03,3.15,78.0,Everyone 10+,X360,Racing,0.3
 3888,F1 2013,2013-10-03,3.15,78.0,Everyone 10+,PS3,Racing,0.54
 3887,Disgaea D2: A Brighter Darkness,2013-10-08,0.0,Not Rated,Teen,PS3,Role-Playing,0.21
+26970,SpongeBob SquarePants: Plankton's Robotic Revenge,2013-10-10,3.12,Not Rated,Everyone 10+,WiiU,Shooter,0.05
+26970,SpongeBob SquarePants: Plankton's Robotic Revenge,2013-10-10,3.12,Not Rated,Everyone 10+,X360,Shooter,0.05
+26970,SpongeBob SquarePants: Plankton's Robotic Revenge,2013-10-10,3.12,Not Rated,Everyone 10+,3DS,Shooter,0.06
+3586,Fairy Fencer F,2013-10-10,3.25,66.0,None,PS3,Role-Playing,0.19
 1682,The Wolf Among Us,2013-10-10,4.35,82.0,Mature,X360,Adventure,0.03
 1682,The Wolf Among Us,2013-10-10,4.35,82.0,Mature,PS4,Adventure,0.21
 1682,The Wolf Among Us,2013-10-10,4.35,82.0,Mature,PSV,Adventure,0.04
 1682,The Wolf Among Us,2013-10-10,4.35,82.0,Mature,PS3,Adventure,0.09
 1682,The Wolf Among Us,2013-10-10,4.35,82.0,Mature,XOne,Adventure,0.08
-26970,SpongeBob SquarePants: Plankton's Robotic Revenge,2013-10-10,3.12,Not Rated,Everyone 10+,WiiU,Shooter,0.05
-26970,SpongeBob SquarePants: Plankton's Robotic Revenge,2013-10-10,3.12,Not Rated,Everyone 10+,X360,Shooter,0.05
-26970,SpongeBob SquarePants: Plankton's Robotic Revenge,2013-10-10,3.12,Not Rated,Everyone 10+,3DS,Shooter,0.06
-3586,Fairy Fencer F,2013-10-10,3.25,66.0,None,PS3,Role-Playing,0.19
 26968,Skylanders SWAP Force,2013-10-13,3.41,80.0,Everyone 10+,Wii,Platform,2.15
 26968,Skylanders SWAP Force,2013-10-13,3.41,80.0,Everyone 10+,XOne,Platform,0.32
 26968,Skylanders SWAP Force,2013-10-13,3.41,80.0,Everyone 10+,3DS,Platform,0.24
@@ -491,9 +491,9 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 2235,Batman: Arkham Origins,2013-10-16,3.92,74.0,Teen,PS3,Action,2.29
 2235,Batman: Arkham Origins,2013-10-16,3.92,74.0,Teen,X360,Action,1.88
 42247,Saint Seiya: Brave Soldiers,2013-10-17,0.0,Not Rated,None,PS3,Fighting,0.07
-3793,Truck Racer,2013-10-18,2.14,Not Rated,None,Wii,Racing,0.01
 14988,Sonic Lost World,2013-10-18,2.93,60.0,Everyone 10+,3DS,Platform,0.49
 14988,Sonic Lost World,2013-10-18,2.93,60.0,Everyone 10+,WiiU,Platform,0.39
+3793,Truck Racer,2013-10-18,2.14,Not Rated,None,Wii,Racing,0.01
 26969,Teenage Mutant Ninja Turtles,2013-10-22,0.0,Not Rated,None,NES,Action,4.17
 26969,Teenage Mutant Ninja Turtles,2013-10-22,0.0,Not Rated,None,PS2,Action,0.92
 26969,Teenage Mutant Ninja Turtles,2013-10-22,0.0,Not Rated,None,GBA,Action,0.93
@@ -511,13 +511,13 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3873,Batman: Arkham Origins Blackgate,2013-10-25,3.09,Not Rated,Teen,3DS,Action,0.27
 3873,Batman: Arkham Origins Blackgate,2013-10-25,3.09,Not Rated,Teen,PSV,Action,0.42
 27972,Wii Party U,2013-10-25,3.89,65.0,Everyone,WiiU,Misc,1.75
-3872,WWE 2K14,2013-10-29,3.49,Not Rated,Teen,PS3,Sports,1.14
-3872,WWE 2K14,2013-10-29,3.49,Not Rated,Teen,X360,Sports,1.11
 3842,Battlefield 4,2013-10-29,3.91,81.0,None,PS3,Shooter,3.49
 3842,Battlefield 4,2013-10-29,3.91,81.0,None,X360,Shooter,3.48
 3842,Battlefield 4,2013-10-29,3.91,81.0,None,PS4,Shooter,3.59
 3842,Battlefield 4,2013-10-29,3.91,81.0,None,XOne,Shooter,2.02
 3842,Battlefield 4,2013-10-29,3.91,81.0,None,PC,Shooter,1.35
+3872,WWE 2K14,2013-10-29,3.49,Not Rated,Teen,PS3,Sports,1.14
+3872,WWE 2K14,2013-10-29,3.49,Not Rated,Teen,X360,Sports,1.11
 42330,Football Manager 2014,2013-10-30,4.24,85.0,Everyone,PSV,Sports,0.1
 42330,Football Manager 2014,2013-10-30,4.24,85.0,Everyone,PC,Sports,0.64
 27327,Wii Fit U,2013-10-31,0.0,Not Rated,Everyone,WiiU,Sports,0.85
@@ -542,19 +542,19 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3838,Need for Speed Rivals,2013-11-15,3.15,77.0,Everyone 10+,X360,Racing,0.79
 3849,Knack,2013-11-15,3.09,54.0,Everyone 10+,PS4,Platform,1.73
 3834,Contrast,2013-11-15,3.39,62.0,None,PC,Platform,0.01
+989,Fighter Within,2013-11-19,0.0,Not Rated,Teen,XOne,Fighting,0.19
 3840,Young Justice: Legacy,2013-11-19,0.0,Not Rated,Teen,Wii,Action,0.03
 3840,Young Justice: Legacy,2013-11-19,0.0,Not Rated,Teen,X360,Action,0.01
 3840,Young Justice: Legacy,2013-11-19,0.0,Not Rated,Teen,PS3,Action,0.09
 3840,Young Justice: Legacy,2013-11-19,0.0,Not Rated,Teen,3DS,Action,0.03
-989,Fighter Within,2013-11-19,0.0,Not Rated,Teen,XOne,Fighting,0.19
 3830,Tearaway,2013-11-20,4.13,87.0,Everyone 10+,PSV,Adventure,0.61
 27974,Super Mario 3D World,2013-11-21,4.38,93.0,Everyone,WiiU,Platform,4.32
+42233,Dead Rising 3,2013-11-22,3.48,78.0,Mature,XOne,Action,1.57
+24054,Mario Party: Island Tour,2013-11-22,3.67,57.0,Everyone,3DS,Misc,1.92
+46431,Forza Motorsport 5,2013-11-22,3.56,79.0,Everyone,XOne,Racing,2.2
+17803,Ryse: Son of Rome,2013-11-22,3.58,61.0,Mature,XOne,Action,1.38
 27977,The Legend of Zelda: A Link Between Worlds,2013-11-22,4.37,91.0,None,3DS,Action,3.1
 660,Killer Instinct,2013-11-22,3.62,Not Rated,Teen,SNES,Fighting,3.2
-17803,Ryse: Son of Rome,2013-11-22,3.58,61.0,Mature,XOne,Action,1.38
-42233,Dead Rising 3,2013-11-22,3.48,78.0,Mature,XOne,Action,1.57
-46431,Forza Motorsport 5,2013-11-22,3.56,79.0,Everyone,XOne,Racing,2.2
-24054,Mario Party: Island Tour,2013-11-22,3.67,57.0,Everyone,3DS,Misc,1.92
 3825,Metal Gear Solid VR Missions,2013-11-26,3.83,Not Rated,Mature,PS,Adventure,1.18
 3739,Dynasty Warriors 8: Xtreme Legends,2013-11-28,3.54,Not Rated,Teen,PS3,Action,0.16
 3739,Dynasty Warriors 8: Xtreme Legends,2013-11-28,3.54,Not Rated,Teen,PSV,Action,0.12
@@ -581,8 +581,8 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 27913,Puyo Puyo Tetris,2014-02-06,4.08,81.0,Everyone 10+,WiiU,Puzzle,0.02
 3783,Toukiden: The Age of Demons,2014-02-11,2.82,Not Rated,Teen,PSV,Action,0.35
 3783,Toukiden: The Age of Demons,2014-02-11,2.82,Not Rated,Teen,PSP,Action,0.18
-27978,Donkey Kong Country: Tropical Freeze,2014-02-13,4.38,84.0,Everyone,WiiU,Platform,1.52
 27370,Inazuma Eleven,2014-02-13,4.05,Not Rated,None,DS,Role-Playing,0.53
+27978,Donkey Kong Country: Tropical Freeze,2014-02-13,4.38,84.0,Everyone,WiiU,Platform,1.52
 3768,Earth Defense Force 2025,2014-02-18,0.0,Not Rated,Mature,PS3,Shooter,0.35
 3768,Earth Defense Force 2025,2014-02-18,0.0,Not Rated,Mature,X360,Shooter,0.15
 42519,NASCAR '14,2014-02-18,0.0,Not Rated,None,PS3,Racing,0.11
@@ -600,14 +600,14 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3757,South Park: The Stick of Truth,2014-03-04,4.21,84.0,Mature,X360,Role-Playing,0.92
 3757,South Park: The Stick of Truth,2014-03-04,4.21,84.0,Mature,PC,Role-Playing,0.19
 3670,Soul Sacrifice Delta,2014-03-06,3.66,Not Rated,Mature,PSV,Action,0.22
-42230,Titanfall,2014-03-11,4.03,Not Rated,Mature,XOne,Shooter,2.95
-42230,Titanfall,2014-03-11,4.03,Not Rated,Mature,PC,Shooter,0.56
-42230,Titanfall,2014-03-11,4.03,Not Rated,Mature,X360,Shooter,1.36
 3751,Dark Souls II,2014-03-11,4.06,91.0,Mature,PC,Role-Playing,0.17
 3751,Dark Souls II,2014-03-11,4.06,91.0,Mature,X360,Role-Playing,0.74
 3751,Dark Souls II,2014-03-11,4.06,91.0,Mature,PS3,Role-Playing,1.27
 3751,Dark Souls II,2014-03-11,4.06,91.0,Mature,PS4,Role-Playing,0.6
 3751,Dark Souls II,2014-03-11,4.06,91.0,Mature,XOne,Role-Playing,0.23
+42230,Titanfall,2014-03-11,4.03,Not Rated,Mature,XOne,Shooter,2.95
+42230,Titanfall,2014-03-11,4.03,Not Rated,Mature,PC,Shooter,0.56
+42230,Titanfall,2014-03-11,4.03,Not Rated,Mature,X360,Shooter,1.36
 27375,Yoshi's New Island,2014-03-14,2.8,Not Rated,None,3DS,Platform,1.38
 3747,Metal Gear Solid V: Ground Zeroes,2014-03-18,3.9,80.0,None,PS3,Action,0.59
 3747,Metal Gear Solid V: Ground Zeroes,2014-03-18,3.9,80.0,None,XOne,Action,0.29
@@ -619,6 +619,9 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 41458,The Elder Scrolls Online,2014-04-04,3.61,71.0,None,PC,Role-Playing,0.9
 41458,The Elder Scrolls Online,2014-04-04,3.61,71.0,None,PS4,Role-Playing,1.75
 41458,The Elder Scrolls Online,2014-04-04,3.61,71.0,None,XOne,Role-Playing,1.28
+1477,McDROID,2014-04-08,0.0,Not Rated,Everyone,Wii,Strategy,0.12
+1477,McDROID,2014-04-08,0.0,Not Rated,Everyone,PSP,Strategy,0.05
+7518,Kinect Sports Rivals,2014-04-08,3.25,Not Rated,None,XOne,Sports,0.6
 3729,LEGO The Hobbit,2014-04-08,3.44,70.0,None,X360,Action,0.45
 3729,LEGO The Hobbit,2014-04-08,3.44,70.0,None,PS3,Action,0.46
 3729,LEGO The Hobbit,2014-04-08,3.44,70.0,None,PS4,Action,0.6
@@ -627,20 +630,17 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3729,LEGO The Hobbit,2014-04-08,3.44,70.0,None,PC,Action,0.05
 3729,LEGO The Hobbit,2014-04-08,3.44,70.0,None,PSV,Action,0.15
 3729,LEGO The Hobbit,2014-04-08,3.44,70.0,None,3DS,Action,0.24
-1477,McDROID,2014-04-08,0.0,Not Rated,Everyone,Wii,Strategy,0.12
-1477,McDROID,2014-04-08,0.0,Not Rated,Everyone,PSP,Strategy,0.05
-7518,Kinect Sports Rivals,2014-04-08,3.25,Not Rated,None,XOne,Sports,0.6
 3410,Tokyo Twilight Ghost Hunters,2014-04-10,0.0,Not Rated,Teen,PS3,Role-Playing,0.06
 3410,Tokyo Twilight Ghost Hunters,2014-04-10,0.0,Not Rated,Teen,PSV,Role-Playing,0.07
 24028,Disney Magical World,2014-04-11,0.0,Not Rated,None,3DS,Adventure,0.92
 9385,Mechanic Escape,2014-04-15,2.31,Not Rated,Everyone 10+,PS3,Platform,0.04
-42582,2014 FIFA World Cup Brazil,2014-04-15,0.0,Not Rated,None,PS3,Sports,0.61
-42582,2014 FIFA World Cup Brazil,2014-04-15,0.0,Not Rated,None,X360,Sports,0.42
 3726,Trials Fusion,2014-04-15,3.51,80.0,None,PC,Racing,0.03
 3726,Trials Fusion,2014-04-15,3.51,80.0,None,XOne,Racing,0.24
 3726,Trials Fusion,2014-04-15,3.51,80.0,None,PS4,Racing,0.42
 3720,Conception II: Children of the Seven Stars,2014-04-15,3.17,Not Rated,Mature,PSV,Role-Playing,0.17
 3720,Conception II: Children of the Seven Stars,2014-04-15,3.17,Not Rated,Mature,3DS,Role-Playing,0.12
+42582,2014 FIFA World Cup Brazil,2014-04-15,0.0,Not Rated,None,PS3,Sports,0.61
+42582,2014 FIFA World Cup Brazil,2014-04-15,0.0,Not Rated,None,X360,Sports,0.42
 3608,The Golf Club,2014-04-17,3.46,70.0,Everyone,PS4,Sports,0.08
 3608,The Golf Club,2014-04-17,3.46,70.0,Everyone,XOne,Sports,0.03
 3715,Demon Gaze,2014-04-22,0.0,Not Rated,Teen,PSV,Role-Playing,0.17
@@ -665,8 +665,8 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3687,Watch Dogs,2014-05-27,3.53,77.0,Mature,XOne,Action,1.57
 3687,Watch Dogs,2014-05-27,3.53,77.0,Mature,X360,Action,1.25
 3687,Watch Dogs,2014-05-27,3.53,77.0,Mature,PS3,Action,1.74
-27976,Mario Kart 8,2014-05-29,4.37,88.0,Everyone,WiiU,Racing,7.09
 3421,Hyperdevotion Noire: Goddess Black Heart,2014-05-29,0.0,Not Rated,Teen,PSV,Role-Playing,0.13
+27976,Mario Kart 8,2014-05-29,4.37,88.0,Everyone,WiiU,Racing,7.09
 3427,Murdered: Soul Suspect,2014-06-03,3.43,59.0,Mature,PC,Action,0.05
 3427,Murdered: Soul Suspect,2014-06-03,3.43,59.0,Mature,X360,Action,0.1
 3427,Murdered: Soul Suspect,2014-06-03,3.43,59.0,Mature,XOne,Action,0.16
@@ -678,20 +678,20 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3656,GRID Autosport,2014-06-24,3.64,78.0,None,PS3,Racing,0.18
 3656,GRID Autosport,2014-06-24,3.64,78.0,None,X360,Racing,0.09
 3656,GRID Autosport,2014-06-24,3.64,78.0,None,PC,Racing,0.02
+3363,Shovel Knight,2014-06-26,4.3,85.0,Everyone,PS4,Platform,0.08
+3363,Shovel Knight,2014-06-26,4.3,85.0,Everyone,3DS,Platform,0.14
+3363,Shovel Knight,2014-06-26,4.3,85.0,Everyone,WiiU,Platform,0.1
 3651,Sniper Elite 3,2014-06-26,3.55,67.0,None,X360,Shooter,0.3
 3651,Sniper Elite 3,2014-06-26,3.55,67.0,None,PS3,Shooter,0.28
 3651,Sniper Elite 3,2014-06-26,3.55,67.0,None,XOne,Shooter,0.35
 3651,Sniper Elite 3,2014-06-26,3.55,67.0,None,PS4,Shooter,0.68
 3527,Freedom Wars,2014-06-26,3.16,Not Rated,Teen,PSV,Role-Playing,0.65
-3363,Shovel Knight,2014-06-26,4.3,85.0,Everyone,PS4,Platform,0.08
-3363,Shovel Knight,2014-06-26,4.3,85.0,Everyone,3DS,Platform,0.14
-3363,Shovel Knight,2014-06-26,4.3,85.0,Everyone,WiiU,Platform,0.1
 41490,Divinity: Original Sin,2014-06-30,4.19,87.0,None,PC,Role-Playing,0.02
 41490,Divinity: Original Sin,2014-06-30,4.19,87.0,None,XOne,Role-Playing,0.07
 41490,Divinity: Original Sin,2014-06-30,4.19,87.0,None,PS4,Role-Playing,0.28
 3414,Oreshika: Tainted Bloodlines,2014-07-17,3.05,Not Rated,Teen,PSV,Role-Playing,0.15
-3299,Operation Abyss: New Tokyo Legacy,2014-07-24,2.83,Not Rated,Mature,PSV,Role-Playing,0.1
 3125,Corpse Party: Blood Drive,2014-07-24,0.0,Not Rated,None,PSV,Adventure,0.18
+3299,Operation Abyss: New Tokyo Legacy,2014-07-24,2.83,Not Rated,Mature,PSV,Role-Playing,0.1
 3628,Sacred 3,2014-07-31,2.68,57.0,None,PC,Role-Playing,0.02
 3628,Sacred 3,2014-07-31,2.68,57.0,None,PS3,Role-Playing,0.1
 3628,Sacred 3,2014-07-31,2.68,57.0,None,X360,Role-Playing,0.05
@@ -722,7 +722,6 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 41336,Wasteland 2,2014-09-19,3.82,Not Rated,None,PS4,Role-Playing,0.11
 41336,Wasteland 2,2014-09-19,3.82,Not Rated,None,XOne,Role-Playing,0.05
 41336,Wasteland 2,2014-09-19,3.82,Not Rated,None,PC,Role-Playing,0.1
-23760,Bayonetta 2,2014-09-20,4.35,92.0,Mature,WiiU,Action,0.76
 3580,FIFA 15,2014-09-20,3.29,82.0,None,3DS,Sports,0.45
 3580,FIFA 15,2014-09-20,3.29,82.0,None,X360,Sports,2.92
 3580,FIFA 15,2014-09-20,3.29,82.0,None,PS4,Sports,6.08
@@ -731,8 +730,9 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3580,FIFA 15,2014-09-20,3.29,82.0,None,Wii,Sports,0.56
 3580,FIFA 15,2014-09-20,3.29,82.0,None,PC,Sports,0.28
 3580,FIFA 15,2014-09-20,3.29,82.0,None,XOne,Sports,2.18
-3407,The Awakened Fate Ultimatum,2014-09-25,0.0,Not Rated,Teen,PS3,Role-Playing,0.02
+23760,Bayonetta 2,2014-09-20,4.35,92.0,Mature,WiiU,Action,0.76
 3188,Danganronpa Another Episode: Ultra Despair Girls,2014-09-25,3.8,70.0,Mature,PSV,Action,0.21
+3407,The Awakened Fate Ultimatum,2014-09-25,0.0,Not Rated,Teen,PS3,Role-Playing,0.02
 28633,Forza Horizon 2,2014-09-30,4.23,86.0,Everyone 10+,X360,Racing,0.78
 28633,Forza Horizon 2,2014-09-30,4.23,86.0,Everyone 10+,XOne,Racing,1.4
 3507,WWE 2K15,2014-09-30,2.92,Not Rated,None,PS3,Sports,0.78
@@ -749,11 +749,11 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3556,Alien: Isolation,2014-10-06,4.22,81.0,Mature,PS3,Shooter,0.33
 3556,Alien: Isolation,2014-10-06,4.22,81.0,Mature,PC,Shooter,0.14
 42235,Project Spark,2014-10-07,2.56,Not Rated,None,XOne,Misc,0.17
-3554,The Evil Within,2014-10-12,3.97,68.0,Mature,X360,Action,0.46
-3554,The Evil Within,2014-10-12,3.97,68.0,Mature,PC,Action,0.27
-3554,The Evil Within,2014-10-12,3.97,68.0,Mature,PS3,Action,0.84
-3554,The Evil Within,2014-10-12,3.97,68.0,Mature,PS4,Action,1.79
-3554,The Evil Within,2014-10-12,3.97,68.0,Mature,XOne,Action,0.67
+3554,The Evil Within,2014-10-12,3.96,68.0,Mature,X360,Action,0.46
+3554,The Evil Within,2014-10-12,3.96,68.0,Mature,PC,Action,0.27
+3554,The Evil Within,2014-10-12,3.96,68.0,Mature,PS3,Action,0.84
+3554,The Evil Within,2014-10-12,3.96,68.0,Mature,PS4,Action,1.79
+3554,The Evil Within,2014-10-12,3.96,68.0,Mature,XOne,Action,0.67
 3543,Borderlands: The Pre-Sequel,2014-10-13,3.56,75.0,None,PS3,Shooter,0.61
 3543,Borderlands: The Pre-Sequel,2014-10-13,3.56,75.0,None,PC,Shooter,0.29
 3543,Borderlands: The Pre-Sequel,2014-10-13,3.56,75.0,None,X360,Shooter,0.72
@@ -765,35 +765,35 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3538,Just Dance 2015,2014-10-21,3.64,Not Rated,None,Wii,Misc,2.01
 13694,Sid Meier's Civilization: Beyond Earth,2014-10-23,3.53,81.0,None,PC,Strategy,0.36
 27483,Fantasy Life,2014-10-24,4.16,Not Rated,None,3DS,Role-Playing,1.13
-3532,SingStar,2014-10-28,2.45,Not Rated,Everyone 10+,PS2,Misc,1.86
-3532,SingStar,2014-10-28,2.45,Not Rated,Everyone 10+,PS3,Misc,1.13
-6773,Sunset Overdrive,2014-10-28,3.94,82.0,Mature,XOne,Shooter,1.14
-42941,Teenage Mutant Ninja Turtles: Danger of the Ooze,2014-10-28,0.0,Not Rated,None,PS3,Adventure,0.25
-42941,Teenage Mutant Ninja Turtles: Danger of the Ooze,2014-10-28,0.0,Not Rated,None,X360,Adventure,0.2
-42941,Teenage Mutant Ninja Turtles: Danger of the Ooze,2014-10-28,0.0,Not Rated,None,3DS,Adventure,0.13
 2047,Lords of the Fallen,2014-10-28,2.93,73.0,None,XOne,Role-Playing,0.22
 2047,Lords of the Fallen,2014-10-28,2.93,73.0,None,PS4,Role-Playing,0.52
 2047,Lords of the Fallen,2014-10-28,2.93,73.0,None,PC,Role-Playing,0.03
+42941,Teenage Mutant Ninja Turtles: Danger of the Ooze,2014-10-28,0.0,Not Rated,None,PS3,Adventure,0.25
+42941,Teenage Mutant Ninja Turtles: Danger of the Ooze,2014-10-28,0.0,Not Rated,None,X360,Adventure,0.2
+42941,Teenage Mutant Ninja Turtles: Danger of the Ooze,2014-10-28,0.0,Not Rated,None,3DS,Adventure,0.13
+3532,SingStar,2014-10-28,2.45,Not Rated,Everyone 10+,PS2,Misc,1.86
+3532,SingStar,2014-10-28,2.45,Not Rated,Everyone 10+,PS3,Misc,1.13
+6773,Sunset Overdrive,2014-10-28,3.94,82.0,Mature,XOne,Shooter,1.14
 3255,Onechanbara Z2: Chaos,2014-10-30,3.56,Not Rated,Mature,PS4,Action,0.24
-842,Call of Duty: Advanced Warfare,2014-11-03,3.43,78.0,Mature,XOne,Shooter,5.27
-842,Call of Duty: Advanced Warfare,2014-11-03,3.43,78.0,Mature,PS4,Shooter,7.66
-842,Call of Duty: Advanced Warfare,2014-11-03,3.43,78.0,Mature,X360,Shooter,4.29
-842,Call of Duty: Advanced Warfare,2014-11-03,3.43,78.0,Mature,PS3,Shooter,4.36
-842,Call of Duty: Advanced Warfare,2014-11-03,3.43,78.0,Mature,PC,Shooter,0.41
+842,Call of Duty: Advanced Warfare,2014-11-03,3.42,78.0,Mature,XOne,Shooter,5.27
+842,Call of Duty: Advanced Warfare,2014-11-03,3.42,78.0,Mature,PS4,Shooter,7.66
+842,Call of Duty: Advanced Warfare,2014-11-03,3.42,78.0,Mature,X360,Shooter,4.29
+842,Call of Duty: Advanced Warfare,2014-11-03,3.42,78.0,Mature,PS3,Shooter,4.36
+842,Call of Duty: Advanced Warfare,2014-11-03,3.42,78.0,Mature,PC,Shooter,0.41
 27518,Ultimate NES Remix,2014-11-07,0.0,Not Rated,None,3DS,Action,0.27
+27505,Sonic Boom: Rise of Lyric,2014-11-11,1.78,Not Rated,None,WiiU,Action,0.31
+6620,Shape Up,2014-11-11,0.0,Not Rated,None,XOne,Misc,0.18
 3515,Pro Evolution Soccer 2015,2014-11-11,3.33,Not Rated,Everyone 10+,PC,Sports,0.06
 3515,Pro Evolution Soccer 2015,2014-11-11,3.33,Not Rated,Everyone 10+,PS3,Sports,0.58
 3515,Pro Evolution Soccer 2015,2014-11-11,3.33,Not Rated,Everyone 10+,PS4,Sports,0.75
 3515,Pro Evolution Soccer 2015,2014-11-11,3.33,Not Rated,Everyone 10+,XOne,Sports,0.14
 3515,Pro Evolution Soccer 2015,2014-11-11,3.33,Not Rated,Everyone 10+,X360,Sports,0.14
-27505,Sonic Boom: Rise of Lyric,2014-11-11,1.78,Not Rated,None,WiiU,Action,0.31
+857,Halo: The Master Chief Collection,2014-11-11,4.29,85.0,None,XOne,Shooter,3.23
 3511,Digimon All-Star Rumble,2014-11-11,2.83,Not Rated,Everyone 10+,X360,Fighting,0.06
 3511,Digimon All-Star Rumble,2014-11-11,2.83,Not Rated,Everyone 10+,PS3,Fighting,0.09
-857,Halo: The Master Chief Collection,2014-11-11,4.29,85.0,None,XOne,Shooter,3.23
-6620,Shape Up,2014-11-11,0.0,Not Rated,None,XOne,Misc,0.18
 23767,Captain Toad: Treasure Tracker,2014-11-13,4.12,81.0,Everyone,WiiU,Puzzle,1.19
-42455,World of Warcraft: Warlords of Draenor,2014-11-13,3.56,87.0,Teen,PC,Action,0.47
 1090,This War of Mine,2014-11-13,4.07,83.0,Mature,PS4,Action,0.02
+42455,World of Warcraft: Warlords of Draenor,2014-11-13,3.56,87.0,Teen,PC,Action,0.47
 3423,Rugby 15,2014-11-14,0.0,Not Rated,Everyone,PSV,Sports,0.03
 3423,Rugby 15,2014-11-14,0.0,Not Rated,Everyone,XOne,Sports,0.09
 3423,Rugby 15,2014-11-14,0.0,Not Rated,Everyone,X360,Sports,0.03
@@ -806,17 +806,17 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3497,Far Cry 4,2014-11-18,3.82,80.0,None,PS3,Shooter,1.29
 3496,Escape Dead Island,2014-11-18,2.77,52.0,None,PS3,Action,0.07
 3496,Escape Dead Island,2014-11-18,2.77,52.0,None,X360,Action,0.07
-3495,Adventure Time: The Secret of the Nameless Kingdom,2014-11-18,3.23,Not Rated,Everyone 10+,3DS,Action,0.08
-3495,Adventure Time: The Secret of the Nameless Kingdom,2014-11-18,3.23,Not Rated,Everyone 10+,X360,Action,0.06
+6591,Rabbids Invasion: The Interactive TV Show,2014-11-18,3.3,Not Rated,Everyone 10+,PS4,Misc,0.02
+6591,Rabbids Invasion: The Interactive TV Show,2014-11-18,3.3,Not Rated,Everyone 10+,XOne,Misc,0.01
 28559,Dragon Age: Inquisition,2014-11-18,3.79,86.0,Mature,PS3,Role-Playing,0.6
 28559,Dragon Age: Inquisition,2014-11-18,3.79,86.0,Mature,PC,Role-Playing,0.73
 28559,Dragon Age: Inquisition,2014-11-18,3.79,86.0,Mature,XOne,Role-Playing,0.93
 28559,Dragon Age: Inquisition,2014-11-18,3.79,86.0,Mature,X360,Role-Playing,0.53
 28559,Dragon Age: Inquisition,2014-11-18,3.79,86.0,Mature,PS4,Role-Playing,2.01
-3501,LittleBigPlanet 3,2014-11-18,3.49,79.0,Everyone 10+,PS3,Platform,0.63
-3501,LittleBigPlanet 3,2014-11-18,3.49,79.0,Everyone 10+,PS4,Platform,1.91
-6591,Rabbids Invasion: The Interactive TV Show,2014-11-18,3.3,Not Rated,Everyone 10+,PS4,Misc,0.02
-6591,Rabbids Invasion: The Interactive TV Show,2014-11-18,3.3,Not Rated,Everyone 10+,XOne,Misc,0.01
+3495,Adventure Time: The Secret of the Nameless Kingdom,2014-11-18,3.23,Not Rated,Everyone 10+,3DS,Action,0.08
+3495,Adventure Time: The Secret of the Nameless Kingdom,2014-11-18,3.23,Not Rated,Everyone 10+,X360,Action,0.06
+3501,LittleBigPlanet 3,2014-11-18,3.48,79.0,Everyone 10+,PS3,Platform,0.63
+3501,LittleBigPlanet 3,2014-11-18,3.48,79.0,Everyone 10+,PS4,Platform,1.91
 3489,The Crew,2014-12-01,3.3,71.0,Teen,X360,Racing,0.22
 3489,The Crew,2014-12-01,3.3,71.0,Teen,PC,Racing,0.16
 3489,The Crew,2014-12-01,3.3,71.0,Teen,XOne,Racing,0.64
@@ -833,29 +833,29 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 2510,Stranger of Sword City,2015-01-22,3.43,Not Rated,Teen,PSV,Role-Playing,0.04
 3121,Tales of Zestiria,2015-01-22,3.57,77.0,None,PS3,Role-Playing,0.56
 3121,Tales of Zestiria,2015-01-22,3.57,77.0,None,PS4,Role-Playing,0.4
-19687,Ghost Pirates of Vooju Island,2015-01-27,0.0,66.0,None,PC,Adventure,0.02
 42215,Dying Light,2015-01-27,4.11,74.0,Mature,PC,Action,0.2
 42215,Dying Light,2015-01-27,4.11,74.0,Mature,XOne,Action,1.29
 42215,Dying Light,2015-01-27,4.11,74.0,Mature,PS4,Action,2.09
-11043,Making History: The Great War,2015-01-29,0.0,Not Rated,None,PSP,Strategy,0.12
-11043,Making History: The Great War,2015-01-29,0.0,Not Rated,None,Wii,Strategy,0.15
+19687,Ghost Pirates of Vooju Island,2015-01-27,0.0,66.0,None,PC,Adventure,0.02
 3439,Life is Strange,2015-01-29,4.11,83.0,Mature,PS4,Adventure,0.4
 3439,Life is Strange,2015-01-29,4.11,83.0,Mature,XOne,Adventure,0.13
 3439,Life is Strange,2015-01-29,4.11,83.0,Mature,PC,Adventure,0.04
+11043,Making History: The Great War,2015-01-29,0.0,Not Rated,None,PSP,Strategy,0.12
+11043,Making History: The Great War,2015-01-29,0.0,Not Rated,None,Wii,Strategy,0.15
 40931,Raven's Cry,2015-01-30,0.0,Not Rated,None,PS4,Role-Playing,0.01
 3433,Evolve,2015-02-10,2.72,Not Rated,Mature,XOne,Shooter,0.64
 3433,Evolve,2015-02-10,2.72,Not Rated,Mature,PC,Shooter,0.19
 3433,Evolve,2015-02-10,2.72,Not Rated,Mature,PS4,Shooter,0.96
-23768,The Legend of Zelda: Majora's Mask 3D,2015-02-13,4.38,89.0,None,3DS,Action,2.34
 23771,Monster Hunter 4 Ultimate,2015-02-13,4.24,Not Rated,None,3DS,Role-Playing,3.89
-27557,Kirby and the Rainbow Curse,2015-02-20,0.0,Not Rated,None,WiiU,Platform,0.52
+23768,The Legend of Zelda: Majora's Mask 3D,2015-02-13,4.38,89.0,None,3DS,Action,2.34
 2386,The Book of Unwritten Tales 2,2015-02-20,3.1,80.0,Teen,PS4,Adventure,0.07
 2386,The Book of Unwritten Tales 2,2015-02-20,3.1,80.0,Teen,WiiU,Adventure,0.01
+27557,Kirby and the Rainbow Curse,2015-02-20,0.0,Not Rated,None,WiiU,Platform,0.52
+10261,Homeworld Remastered Collection,2015-02-24,4.04,86.0,Teen,PC,Strategy,0.01
 13331,Disney's Chicken Little,2015-02-24,3.89,Not Rated,None,GC,Platform,0.27
 13331,Disney's Chicken Little,2015-02-24,3.89,Not Rated,None,XB,Platform,0.14
 13331,Disney's Chicken Little,2015-02-24,3.89,Not Rated,None,PS2,Platform,0.65
 13331,Disney's Chicken Little,2015-02-24,3.89,Not Rated,None,GBA,Platform,0.7
-10261,Homeworld Remastered Collection,2015-02-24,4.04,86.0,Teen,PC,Strategy,0.01
 3416,Zombie Army Trilogy,2015-03-03,3.34,72.0,Mature,PS4,Shooter,0.2
 3416,Zombie Army Trilogy,2015-03-03,3.34,72.0,Mature,XOne,Shooter,0.11
 10065,Cities: Skylines,2015-03-10,4.15,85.0,Everyone,PC,Simulation,0.14
@@ -866,10 +866,10 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 3395,LEGO Ninjago: Shadow of Ronin,2015-03-24,0.0,Not Rated,None,3DS,Action,0.21
 3395,LEGO Ninjago: Shadow of Ronin,2015-03-24,0.0,Not Rated,None,PSV,Action,0.11
 3387,Bloodborne,2015-03-24,4.41,92.0,Mature,PS4,Action,2.48
-15829,Pillars of Eternity,2015-03-26,3.98,89.0,None,PC,Role-Playing,0.02
 3057,Sword Art Online: Lost Song,2015-03-26,3.19,Not Rated,None,PSV,Role-Playing,0.36
 3057,Sword Art Online: Lost Song,2015-03-26,3.19,Not Rated,None,PS4,Role-Playing,0.25
 3057,Sword Art Online: Lost Song,2015-03-26,3.19,Not Rated,None,PS3,Role-Playing,0.1
+15829,Pillars of Eternity,2015-03-26,3.98,89.0,None,PC,Role-Playing,0.02
 27581,Story of Seasons,2015-03-31,0.0,Not Rated,None,3DS,Simulation,0.42
 9920,War for the Overworld,2015-04-01,3.0,65.0,Teen,PC,Strategy,0.01
 108,Mortal Kombat X,2015-04-07,3.87,76.0,Mature,PS4,Fighting,2.78
@@ -923,12 +923,12 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 331090,Gal Gun: Double Peace,2015-08-06,3.45,Not Rated,None,PSV,Action,0.04
 3228,Toy Soldiers: War Chest,2015-08-11,0.0,60.0,Teen,PS4,Action,0.07
 3228,Toy Soldiers: War Chest,2015-08-11,0.0,60.0,Teen,XOne,Action,0.06
-3209,Until Dawn,2015-08-25,4.11,79.0,Mature,PS4,Adventure,1.66
 3204,Madden NFL 16,2015-08-25,2.96,Not Rated,None,PS3,Sports,0.78
 3204,Madden NFL 16,2015-08-25,2.96,Not Rated,None,XOne,Sports,2.42
 3204,Madden NFL 16,2015-08-25,2.96,Not Rated,None,X360,Sports,0.97
 3204,Madden NFL 16,2015-08-25,2.96,Not Rated,None,PS4,Sports,3.24
-43242,Gears of War: Ultimate Edition,2015-08-25,4.11,78.0,Mature,XOne,Shooter,3.28
+43242,Gears of War: Ultimate Edition,2015-08-25,4.1,78.0,Mature,XOne,Shooter,3.28
+3209,Until Dawn,2015-08-25,4.11,79.0,Mature,PS4,Adventure,1.66
 3192,Metal Gear Solid V: The Phantom Pain,2015-09-01,4.17,91.0,Mature,XOne,Action,0.75
 3192,Metal Gear Solid V: The Phantom Pain,2015-09-01,4.17,91.0,Mature,PS3,Action,0.64
 3192,Metal Gear Solid V: The Phantom Pain,2015-09-01,4.17,91.0,Mature,X360,Action,0.18
@@ -941,9 +941,10 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 1856,Rugby World Cup 2015,2015-09-04,0.0,Not Rated,None,PS3,Sports,0.06
 1856,Rugby World Cup 2015,2015-09-04,0.0,Not Rated,None,XOne,Sports,0.02
 1856,Rugby World Cup 2015,2015-09-04,0.0,Not Rated,None,PC,Sports,0.01
-27651,Hatsune Miku: Project Mirai DX,2015-09-08,0.0,Not Rated,None,3DS,Misc,0.32
 3186,Tearaway Unfolded,2015-09-08,3.71,81.0,Everyone 10+,PS4,Platform,0.26
+27651,Hatsune Miku: Project Mirai DX,2015-09-08,0.0,Not Rated,None,3DS,Misc,0.32
 27984,Super Mario Maker,2015-09-11,4.18,80.0,Everyone,WiiU,Platform,3.21
+8098,Forza Motorsport 6,2015-09-15,4.05,87.0,None,XOne,Racing,1.8
 43350,Destiny: The Taken King,2015-09-15,4.44,88.0,None,X360,Shooter,0.35
 43350,Destiny: The Taken King,2015-09-15,4.44,88.0,None,PS4,Shooter,1.93
 43350,Destiny: The Taken King,2015-09-15,4.44,88.0,None,PS3,Shooter,0.37
@@ -953,15 +954,14 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 43358,Pro Evolution Soccer 2016,2015-09-15,3.8,Not Rated,None,PC,Sports,0.04
 43358,Pro Evolution Soccer 2016,2015-09-15,3.8,Not Rated,None,PS3,Sports,0.4
 43358,Pro Evolution Soccer 2016,2015-09-15,3.8,Not Rated,None,X360,Sports,0.1
-8098,Forza Motorsport 6,2015-09-15,4.05,87.0,None,XOne,Racing,1.8
 3129,Grand Ages: Medieval,2015-09-24,3.0,63.0,Teen,PC,Strategy,0.05
 3129,Grand Ages: Medieval,2015-09-24,3.0,63.0,Teen,PS4,Strategy,0.07
+27986,Animal Crossing: Happy Home Designer,2015-09-25,3.69,66.0,None,3DS,Simulation,3.05
 3154,NBA 2K16,2015-09-25,2.96,86.0,Everyone 10+,PS4,Sports,3.88
 3154,NBA 2K16,2015-09-25,2.96,86.0,Everyone 10+,PS3,Sports,0.74
 3154,NBA 2K16,2015-09-25,2.96,86.0,Everyone 10+,XOne,Sports,2.34
 3154,NBA 2K16,2015-09-25,2.96,86.0,Everyone 10+,X360,Sports,0.94
 3154,NBA 2K16,2015-09-25,2.96,86.0,Everyone 10+,PC,Sports,0.1
-27986,Animal Crossing: Happy Home Designer,2015-09-25,3.69,66.0,None,3DS,Simulation,3.05
 2956,Tony Hawk's Pro Skater 5,2015-09-29,2.57,Not Rated,Teen,X360,Sports,0.07
 2956,Tony Hawk's Pro Skater 5,2015-09-29,2.57,Not Rated,Teen,PS3,Sports,0.06
 2956,Tony Hawk's Pro Skater 5,2015-09-29,2.57,Not Rated,Teen,PS4,Sports,0.21
@@ -972,35 +972,35 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 12320,Prison Architect,2015-10-05,3.78,83.0,None,XOne,Action,0.01
 12320,Prison Architect,2015-10-05,3.78,83.0,None,PS4,Action,0.03
 27987,Chibi-Robo! Zip Lash,2015-10-09,0.0,Not Rated,Everyone,3DS,Platform,0.24
-27662,The Legend of Legacy,2015-10-13,0.0,Not Rated,None,3DS,Role-Playing,0.25
 15916,Minecraft: Story Mode,2015-10-13,3.3,Not Rated,Everyone 10+,PC,Adventure,0.09
 15916,Minecraft: Story Mode,2015-10-13,3.3,Not Rated,Everyone 10+,PS4,Adventure,0.69
 15916,Minecraft: Story Mode,2015-10-13,3.3,Not Rated,Everyone 10+,PS3,Adventure,0.69
 15916,Minecraft: Story Mode,2015-10-13,3.3,Not Rated,Everyone 10+,X360,Adventure,0.88
 15916,Minecraft: Story Mode,2015-10-13,3.3,Not Rated,Everyone 10+,XOne,Adventure,0.56
-3127,Goosebumps: The Game,2015-10-13,3.23,Not Rated,None,3DS,Adventure,0.05
 42895,Assassin's Creed Syndicate,2015-10-13,3.68,74.0,Mature,PC,Action,0.21
 42895,Assassin's Creed Syndicate,2015-10-13,3.68,74.0,Mature,XOne,Action,1.3
 42895,Assassin's Creed Syndicate,2015-10-13,3.68,74.0,Mature,PS4,Action,3.39
+3127,Goosebumps: The Game,2015-10-13,3.23,Not Rated,None,3DS,Adventure,0.05
+27662,The Legend of Legacy,2015-10-13,0.0,Not Rated,None,3DS,Role-Playing,0.25
 2459,MegaTagmension Blanc + Neptune VS Zombies,2015-10-15,3.05,Not Rated,Teen,PSV,Action,0.09
 27989,Yoshi's Woolly World,2015-10-16,4.18,Not Rated,None,WiiU,Platform,1.3
+2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,PS3,Misc,0.27
+2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,PS4,Misc,0.86
+2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,XOne,Misc,0.55
+2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,X360,Misc,0.23
+2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,WiiU,Misc,0.19
 3117,Just Dance 2016,2015-10-20,3.61,Not Rated,None,PS4,Misc,0.36
 3117,Just Dance 2016,2015-10-20,3.61,Not Rated,None,WiiU,Misc,0.57
 3117,Just Dance 2016,2015-10-20,3.61,Not Rated,None,Wii,Misc,0.95
 3117,Just Dance 2016,2015-10-20,3.61,Not Rated,None,PS3,Misc,0.19
 3117,Just Dance 2016,2015-10-20,3.61,Not Rated,None,XOne,Misc,0.32
 3117,Just Dance 2016,2015-10-20,3.61,Not Rated,None,X360,Misc,0.32
-2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,PS3,Misc,0.27
-2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,PS4,Misc,0.86
-2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,XOne,Misc,0.55
-2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,X360,Misc,0.23
-2271,Guitar Hero Live,2015-10-20,3.68,Not Rated,Everyone 10+,WiiU,Misc,0.19
 23900,Fatal Frame: Maiden of Black Water,2015-10-22,0.0,Not Rated,None,WiiU,Action,0.11
-27991,The Legend of Zelda: Tri Force Heroes,2015-10-23,3.62,Not Rated,None,3DS,Action,1.12
 3062,Let's Sing 2016,2015-10-23,0.0,Not Rated,Teen,PS4,Action,0.03
+27991,The Legend of Zelda: Tri Force Heroes,2015-10-23,3.62,Not Rated,None,3DS,Action,1.12
+8444,Halo 5: Guardians,2015-10-27,3.78,84.0,Teen,XOne,Shooter,4.48
 3107,MX vs. ATV Supercross Encore,2015-10-27,0.0,Not Rated,None,PS4,Sports,0.06
 3107,MX vs. ATV Supercross Encore,2015-10-27,0.0,Not Rated,None,XOne,Sports,0.03
-8444,Halo 5: Guardians,2015-10-27,3.78,84.0,Teen,XOne,Shooter,4.48
 3111,WWE 2K16,2015-10-27,2.85,74.0,None,XOne,Sports,0.59
 3111,WWE 2K16,2015-10-27,2.85,74.0,None,PS4,Sports,1.21
 3111,WWE 2K16,2015-10-27,2.85,74.0,None,X360,Sports,0.43
@@ -1018,19 +1018,19 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 7689,Rise of the Tomb Raider,2015-11-10,4.02,86.0,None,PC,Adventure,0.12
 7689,Rise of the Tomb Raider,2015-11-10,4.02,86.0,None,PS4,Adventure,0.94
 15945,Mushihimesama,2015-11-12,4.38,86.0,None,X360,Action,0.02
-43440,Football Manager 2016,2015-11-13,4.19,81.0,Everyone,PC,Simulation,0.35
 27994,Animal Crossing: Amiibo Festival,2015-11-13,2.0,46.0,Everyone,WiiU,Misc,0.41
+43440,Football Manager 2016,2015-11-13,4.19,81.0,Everyone,PC,Simulation,0.35
+14963,Circuit Breakers,2015-11-17,0.0,Not Rated,Everyone 10+,PS,Racing,0.07
+27683,Stella Glow,2015-11-17,0.0,79.0,Teen,3DS,Role-Playing,0.24
 3051,Monster High: New Ghoul in School,2015-11-17,0.0,Not Rated,Everyone 10+,Wii,Action,0.01
 3051,Monster High: New Ghoul in School,2015-11-17,0.0,Not Rated,Everyone 10+,3DS,Action,0.04
 3051,Monster High: New Ghoul in School,2015-11-17,0.0,Not Rated,Everyone 10+,PS3,Action,0.04
 3051,Monster High: New Ghoul in School,2015-11-17,0.0,Not Rated,Everyone 10+,X360,Action,0.02
-27683,Stella Glow,2015-11-17,0.0,79.0,Teen,3DS,Role-Playing,0.24
-14963,Circuit Breakers,2015-11-17,0.0,Not Rated,Everyone 10+,PS,Racing,0.07
+2309,Grand Kingdom,2015-11-19,2.53,Not Rated,Teen,PS4,Role-Playing,0.07
+2309,Grand Kingdom,2015-11-19,2.53,Not Rated,Teen,PSV,Role-Playing,0.06
 13070,Atelier Sophie: The Alchemist of the Mysterious Book,2015-11-19,3.84,73.0,None,PS3,Role-Playing,0.03
 13070,Atelier Sophie: The Alchemist of the Mysterious Book,2015-11-19,3.84,73.0,None,PSV,Role-Playing,0.06
 13070,Atelier Sophie: The Alchemist of the Mysterious Book,2015-11-19,3.84,73.0,None,PS4,Role-Playing,0.12
-2309,Grand Kingdom,2015-11-19,2.53,Not Rated,Teen,PS4,Role-Playing,0.07
-2309,Grand Kingdom,2015-11-19,2.53,Not Rated,Teen,PSV,Role-Playing,0.06
 1709,Handball 16,2015-11-27,1.33,Not Rated,None,PS4,Sports,0.06
 1709,Handball 16,2015-11-27,1.33,Not Rated,None,PS3,Sports,0.03
 3017,Just Cause 3,2015-11-30,3.34,74.0,Mature,XOne,Action,0.9
@@ -1053,13 +1053,13 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 44525,Yakuza Kiwami,2016-01-21,4.04,83.0,Mature,PS3,Adventure,0.12
 44525,Yakuza Kiwami,2016-01-21,4.04,83.0,Mature,PS4,Adventure,0.16
 23758,Mario & Luigi: Paper Jam,2016-01-22,3.45,76.0,Everyone,3DS,Role-Playing,0.76
-2866,LEGO Marvel's Avengers,2016-01-26,3.69,67.0,Everyone 10+,PS4,Action,0.73
-2866,LEGO Marvel's Avengers,2016-01-26,3.69,67.0,Everyone 10+,WiiU,Action,0.24
-2866,LEGO Marvel's Avengers,2016-01-26,3.69,67.0,Everyone 10+,PSV,Action,0.12
-2866,LEGO Marvel's Avengers,2016-01-26,3.69,67.0,Everyone 10+,X360,Action,0.32
-2866,LEGO Marvel's Avengers,2016-01-26,3.69,67.0,Everyone 10+,XOne,Action,0.35
-2866,LEGO Marvel's Avengers,2016-01-26,3.69,67.0,Everyone 10+,PS3,Action,0.27
-2866,LEGO Marvel's Avengers,2016-01-26,3.69,67.0,Everyone 10+,3DS,Action,0.19
+2866,LEGO Marvel's Avengers,2016-01-26,3.67,67.0,Everyone 10+,PS4,Action,0.73
+2866,LEGO Marvel's Avengers,2016-01-26,3.67,67.0,Everyone 10+,WiiU,Action,0.24
+2866,LEGO Marvel's Avengers,2016-01-26,3.67,67.0,Everyone 10+,PSV,Action,0.12
+2866,LEGO Marvel's Avengers,2016-01-26,3.67,67.0,Everyone 10+,X360,Action,0.32
+2866,LEGO Marvel's Avengers,2016-01-26,3.67,67.0,Everyone 10+,XOne,Action,0.35
+2866,LEGO Marvel's Avengers,2016-01-26,3.67,67.0,Everyone 10+,PS3,Action,0.27
+2866,LEGO Marvel's Avengers,2016-01-26,3.67,67.0,Everyone 10+,3DS,Action,0.19
 23775,Final Fantasy Explorers,2016-01-26,2.8,Not Rated,None,3DS,Role-Playing,0.54
 2848,Gravity Rush Remastered,2016-02-02,4.01,80.0,Teen,PS4,Action,0.13
 1256,XCOM 2,2016-02-04,4.1,88.0,None,PC,Strategy,0.23
@@ -1093,17 +1093,17 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 2468,Battleborn,2016-05-02,2.79,69.0,Teen,PC,Shooter,0.08
 2468,Battleborn,2016-05-02,2.79,69.0,Teen,PS4,Shooter,0.26
 10040,Stellaris,2016-05-08,4.24,78.0,None,PC,Strategy,0.04
-2422,Homefront: The Revolution,2016-05-17,3.0,54.0,None,PC,Shooter,0.04
-2422,Homefront: The Revolution,2016-05-17,3.0,54.0,None,PS4,Shooter,0.35
-2422,Homefront: The Revolution,2016-05-17,3.0,54.0,None,XOne,Shooter,0.14
+2422,Homefront: The Revolution,2016-05-17,3.01,54.0,None,PC,Shooter,0.04
+2422,Homefront: The Revolution,2016-05-17,3.01,54.0,None,PS4,Shooter,0.35
+2422,Homefront: The Revolution,2016-05-17,3.01,54.0,None,XOne,Shooter,0.14
 2424,Kinetica,2016-05-17,0.0,Not Rated,Teen,PS2,Racing,0.32
 10247,htoL#NiQ: The Firefly Diary,2016-05-18,0.0,Not Rated,Mature,PSV,Platform,0.01
 17684,Koihime Enbu,2016-05-19,0.0,68.0,None,PS4,Fighting,0.02
 1601,Lumo,2016-05-23,2.58,77.0,Everyone 10+,PSV,Puzzle,0.01
+9845,Total War: WARHAMMER,2016-05-24,4.05,86.0,None,PC,Strategy,0.13
 22508,Overwatch,2016-05-24,4.25,91.0,Teen,PS4,Shooter,2.14
 22508,Overwatch,2016-05-24,4.25,91.0,Teen,PC,Shooter,0.53
 22508,Overwatch,2016-05-24,4.25,91.0,Teen,XOne,Shooter,1.06
-9845,Total War: WARHAMMER,2016-05-24,4.05,86.0,None,PC,Strategy,0.13
 43576,Teenage Mutant Ninja Turtles: Mutants in Manhattan,2016-05-24,2.91,50.0,Teen,PS4,Action,0.09
 43576,Teenage Mutant Ninja Turtles: Mutants in Manhattan,2016-05-24,2.91,50.0,Teen,X360,Action,0.04
 43576,Teenage Mutant Ninja Turtles: Mutants in Manhattan,2016-05-24,2.91,50.0,Teen,XOne,Action,0.04
@@ -1161,9 +1161,9 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 1347,Pro Evolution Soccer 2017,2016-09-13,3.75,69.0,Everyone 10+,PC,Sports,0.02
 1347,Pro Evolution Soccer 2017,2016-09-13,3.75,69.0,Everyone 10+,XOne,Sports,0.05
 1347,Pro Evolution Soccer 2017,2016-09-13,3.75,69.0,Everyone 10+,PS4,Sports,0.45
-15825,Stronghold Legends,2016-09-15,3.11,Not Rated,None,PC,Strategy,0.02
 49,Persona 5,2016-09-15,4.38,93.0,Mature,PS4,Role-Playing,0.37
 49,Persona 5,2016-09-15,4.38,93.0,Mature,PS3,Role-Playing,0.11
+15825,Stronghold Legends,2016-09-15,3.11,Not Rated,None,PC,Strategy,0.02
 1303,NBA 2K17,2016-09-16,3.34,90.0,None,PS3,Sports,0.13
 1303,NBA 2K17,2016-09-16,3.34,90.0,None,X360,Sports,0.12
 1303,NBA 2K17,2016-09-16,3.34,90.0,None,PS4,Sports,1.88
@@ -1185,14 +1185,14 @@ game_id,game_name,release_date,rating,metacritic,esrb_rating,platform_id,genre,s
 28015,Paper Mario: Color Splash,2016-10-07,3.83,76.0,Everyone,WiiU,Role-Playing,0.42
 1159,Until Dawn: Rush of Blood,2016-10-10,3.74,72.0,Mature,PS4,Adventure,0.39
 1142,PlayStation VR Worlds,2016-10-10,3.49,Not Rated,Mature,PS4,Misc,0.25
-1105,Duke Nukem 3D: 20th Anniversary World Tour,2016-10-11,3.99,72.0,Mature,PS4,Shooter,0.03
-1105,Duke Nukem 3D: 20th Anniversary World Tour,2016-10-11,3.99,72.0,Mature,XOne,Shooter,0.03
 1125,WWE 2K17,2016-10-11,3.15,61.0,None,PS4,Sports,0.6
 1125,WWE 2K17,2016-10-11,3.15,61.0,None,PS3,Sports,0.14
 1125,WWE 2K17,2016-10-11,3.15,61.0,None,XOne,Sports,0.26
 1125,WWE 2K17,2016-10-11,3.15,61.0,None,X360,Sports,0.11
-8278,Gears of War 4,2016-10-11,3.9,85.0,Mature,XOne,Shooter,1.35
+1105,Duke Nukem 3D: 20th Anniversary World Tour,2016-10-11,3.99,72.0,Mature,PS4,Shooter,0.03
+1105,Duke Nukem 3D: 20th Anniversary World Tour,2016-10-11,3.99,72.0,Mature,XOne,Shooter,0.03
 1099,Batman: Arkham VR,2016-10-11,3.98,74.0,Mature,PS4,Action,0.3
+8278,Gears of War 4,2016-10-11,3.9,85.0,Mature,XOne,Shooter,1.35
 1067,Here They Lie,2016-10-13,2.7,62.0,Mature,PS4,Adventure,0.02
 1019,LEGO Harry Potter Collection,2016-10-18,4.04,73.0,Everyone 10+,PS4,Action,0.15
 1009,Batman: Return to Arkham,2016-10-18,4.46,75.0,Teen,PS4,Action,0.26
