@@ -32,6 +32,11 @@ FROM sales_platform
 GROUP BY platform_id
 ORDER BY "Total units sold (millions)" DESC
 
---To retrieve 'Grand Theft Auto V' PS4 sales vs XBOX sales
-SELECT 
+--To retrieve 'Grand Theft Auto V' PS4 sales vs XOne sales
+SELECT g.game_id, g.game_name, s.platform_id, s.sales_units_in_millions
+FROM sales_platform as s
+INNER JOIN game as g
+ON s.game_id = g.game_id
+WHERE (s.game_id = 3498)
+AND (platform_id = 'PS4' OR platform_id = 'XOne')
 
