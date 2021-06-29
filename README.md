@@ -75,15 +75,15 @@ In Jupyter Notebook
 4) Export data from dataframes to tables<br>
 
 ## Steps to recreate database
-1) [Get RAWG API Key](https://rawg.io/apidocs)
-2) Create config.py file with RAWG api_key, Postgres username and password
-  a) api_key = ""
-  b) password = ""
-  c) username = ""
-3) Create game_db database in Postgres
-4) Create tables using the schema file
-5) Run the python file
-6) Perform queries from Queries file
+1) [Get RAWG API Key](https://rawg.io/apidocs)<br>
+2) Create config.py file with RAWG api_key, Postgres username and password<br>
+  a) api_key = ""<br>
+  b) password = ""<br>
+  c) username = ""<br>
+3) Create "game_db" database in Postgres<br>
+4) [Create tables using the schema file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/QuickDBD-schema_export.sql)<br>
+5) [Run the python file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/Extract_Transform_Load.ipynb)<br>
+6) [Perform queries from Queries file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/Queries.sql)<br>
 
 ## Example Queries                                                        
 ## Tables:
