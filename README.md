@@ -16,7 +16,7 @@ Video Games Genre, Sales, Metacritics and ESRB Ratings Database
 2) Predictions - use historical data on games to predict games that will be popular. If a videogame receive multiple positive critical reviews in metacritic it usually leads to significant unit sales.
 
 ## Data sources
-1) Videogame sales by Units sold(CSV) [Source: Kaggle - Video Games Sales Dataset by SID_TWR](https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)  <br>
+1) Videogame Sales by Units sold(CSV) [Source: Kaggle - Video Games Sales Dataset by SID_TWR](https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)  <br>
 2) RAWG is a video game database and game discovery service. (API/JSON) <br>
  [RAWG API Documention](https://api.rawg.io/docs/)<br>
  [Get RAWG API Key](https://rawg.io/apidocs)<br>
@@ -34,14 +34,28 @@ Video Games Genre, Sales, Metacritics and ESRB Ratings Database
   - time
 
 ## ETL Step 
-High-level
-1) Import the csv file through Jupyter Notebook
-2) Perform API call to RAWG API to get a list of games, save JSON file, drop irrelevant columns
-3) Combine the two files into a dataframe based on game names with INNER JOIN
-4) Turn the dataframe into a database
-5) Create Tables from the database
 
-Detailed
+### Extract
+1) Import the Video Sales by Units Sold csv file from Kaggle.com through Jupyter Notebook.
+2) Perform API call to RAWG API to get the following fields:
+  a) game_id
+  b) game_name
+  c) release_date
+  d) ratings
+  e) metacritic
+  f) esrb 
+3) Create dataframe from the RAWG API 
+
+### Transform
+#### Exploratory Data Analysis
+1) Sort data 
+Combine the two files into a dataframe based on game names with INNER JOIN
+3) Turn the dataframe into a database
+7) Create Tables from the database
+8) 
+
+
+Detailed 
 ## 1.0 Extract <br>
  1.1 Extract via API call from RAWG Database <br>
  1.2 Perform API call on RAWG database <br>
