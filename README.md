@@ -7,6 +7,7 @@
 * [ETL Step](#etl-step)
 * [Steps to Recreate Database](#steps-to-recreate-database)
 * [Example Queries](#example-queries)
+* [Team Roles](#team-roles)
 
 ## Project Proposal 
 # A brief description of your final database
