@@ -5,6 +5,7 @@
 * [Data Source](#data-sources)
 * [Technologies](#technologies)
 * [ETL Step](#etl-step)
+* [Steps to Recreate Database](#steps-to-recreate-database)
 * [Example Queries](#example-queries)
 
 ## Project Proposal 
@@ -27,6 +28,7 @@ Video Games Genre, Sales, Metacritics and ESRB Ratings Database
 * Postgres
 * [Quick DBD](https://app.quickdatabasediagrams.com/#/)
 * Pandas
+* Jupyter Notebook
 * Libraries
   - json
   - requests 
@@ -36,53 +38,52 @@ Video Games Genre, Sales, Metacritics and ESRB Ratings Database
 ## ETL Step 
 
 ### Extract
-1) Import the Video Sales by Units Sold csv file from Kaggle.com through Jupyter Notebook.
-2) Perform API call to RAWG API to get the following fields:
-  a) game_id
-  b) game_name
-  c) release_date
-  d) ratings
-  e) metacritic
-  f) esrb 
-3) Create dataframe from the RAWG API 
+1) Import the Video Sales by Units Sold csv file from Kaggle.com through Jupyter Notebook to get the following fields:<br>
+  a) game_name<br>
+  b) genre<br>
+  c) global_sales<br>
+  d) platform<br>
+  
+2) Save video games data as dataframe.<br>
 
-### Transform
-#### Exploratory Data Analysis
-1) Sort data 
-Combine the two files into a dataframe based on game names with INNER JOIN
-3) Turn the dataframe into a database
-7) Create Tables from the database
-8) 
+3) Perform API call on RAWG to get the following fields:<br>
+  a) game_id <br>
+  b) game_name<br>
+  c) release_date<br>
+  d) ratings<br>
+  e) metacritic<br>
+  f) esrb <br>
+  
+4) Create games ratings dataframe from the RAWG API <br>
 
+### Transform <br>
+1) Exploratory Data Analysis - Sort data for analysis <br>
+2) Data Cleaning - drop duplicates, rename columns, merge video sales and games ratings dataframes<br>
+3) Get data into separate dataframes to match tables in database<br>
+  a) game table<br>
+  b) rating table<br>
+  c) platform table<br>
+  d) esrb table<br>
+  e) sales table<br>
+  f) game platform table<br>
+  
+### Load<br>
+1) Create tables in Postgres
+In Jupyter Notebook
+2) Connect to local database in jupyter notebook <br>
+3) Check that tables exists in the games database <br>
+4) Export data from dataframes to tables<br>
 
-Detailed 
-## 1.0 Extract <br>
- 1.1 Extract via API call from RAWG Database <br>
- 1.2 Perform API call on RAWG database <br>
- 1.3 Create dictionary from json results/lists <br>
- 1.4 Create dataframe from dictionary <br>
- 1.5 Import Video Games Sales CSV file <br>
-## 2.0 Transform <br>
- 2.1 Exploratory Data Analysis <br>
-  2.1.1 Sort the RAWG Videogame and Videogame Sales dataframes to check the years and games included <br>
-  2.2 Data Cleaning<br>
-   2.2.1 Retain only columns needed from the Video Games Sales dataframe<br>
-   2.2.2 Rename columns in the videogames sales dataframe to lower case<br>
-   2.2.3 Rename columns in the RAWG API games dataframe to lower case<br>
-   2.2.4 Replace the NaN values in Metracritic to Not Rated<br>
-   2.2.5 Save RAWG API cleaned dataframes as csv/ json files<br>
-   2.2.6 Merge the two dataframes<br>
-   2.2.7 Locate the Game with the same Platform being shown twice<br>
-   2.2.8 Combine the sales unit for Game ID 4273 Platform PS3 by summing the two rows<br>
-   2.2.9 Drop the extra row<br>
-   2.2.10 Check each Game name has a Game ID<br>
-   2.2.11 Save merged df to CSV<br>
-  2.3 Get data into separate dataframes to match tables<br>
-## 3.0 Load<br>
-  3.1 Connect to local database <br>
-  3.2 Check for tables<br>
-  3.3 Export data from dataframes to tables<br>
-  3.4 Confirm data has been added by querying tables<br
+## Steps to recreate database
+1) [Get RAWG API Key](https://rawg.io/apidocs)
+2) Create config.py file with RAWG api_key, Postgres username and password
+  a) api_key = ""
+  b) password = ""
+  c) username = ""
+3) Create game_db database in Postgres
+4) Create tables using the schema file
+5) Run the python file
+6) Perform queries from Queries file
 
 ## Example Queries                                                        
 ## Tables:
