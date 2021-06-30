@@ -74,7 +74,7 @@ Video Games Genre, Sales, Metacritics and ESRB Ratings Database for the 5 years 
 ### Load<br>
 1) Create tables in Postgres
 In Jupyter Notebook
-2) Connect to local database in jupyter notebook <br>
+2) Connect to local database in Jupyter notebook <br>
 3) Check that tables exists in the games database <br>
 4) Export data from dataframes to tables<br>
 
