@@ -14,7 +14,7 @@
 Video Games Genre, Sales, Metacritics and ESRB Ratings Database for the 5 years period (1/1/2012 - 12/31/2016).
 
 # Why our final database will be useful to a Videogame Publisher?
-1) Based on the ESRB rating and the genre of the videogame ad companies can place targeted advertisements in online multiplayer games such as Call of Duty to attract new customers. As a point of reference the ESRB(Entertainment Software Rating Board) is a self-regulatory organization that assigns age and content ratings to consumer video games in North America.
+1) Based on the ESRB rating and the genre of the videogame ad companies can place targeted advertisements in online multiplayer games such as Call of Duty to attract new customers. As a point of reference the ESRB (Entertainment Software Rating Board) is a self-regulatory organization that assigns age and content ratings to consumer video games in North America.
 2) Predictions - use historical data on games to predict games that will be popular. If a videogame receives multiple positive critical reviews in metacritic it usually leads to significantly higher unit sales.
 
 ## Data sources
