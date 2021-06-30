@@ -86,7 +86,7 @@ In Jupyter Notebook
   b) password = ""<br>
   c) username = ""<br>
 3) Create "game_db" database in Postgres<br>
-4) [Create tables using the schema file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/QuickDBD-schema_export.sql)<br>
+4) [Create tables using the schema file](https://github.com/dalismo/api_call_of_duty_etl/blob/main/QuickDBD-schema_export.sql)<br>
 5) [Run the python file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/Extract_Transform_Load.ipynb)<br>
 
 ### Option 2 - Manual data import to Postgres<br>
