@@ -96,7 +96,7 @@ users can access the game ratings and sales data from the [Resource folder](http
 [Video Game Ratings data from 2012 to 2016](https://github.com/dalismo/api_call_of_duty_etl/blob/main/Resources/rawg_games_ratings_2012_to_2016.csv)<br>
 [Video Game Sales and Rating data from 2012 to 2016 (CSV)](https://github.com/dalismo/api_call_of_duty_etl/blob/main/Resources/merged_games_sales_ratings_2012_to_2016.csv)<br>
 
-2) [Create tables using the schema file]((https://github.com/dalismo/api_call_of_duty_etl/blob/main/QuickDBD-schema_export.sql)<br>
+2) [Create tables using the schema file](https://github.com/dalismo/api_call_of_duty_etl/blob/main/QuickDBD-schema_export.sql)<br>
 3) Import the data into the table:<br>
 [game data](https://github.com/dalismo/api_call_of_duty_etl/blob/main/Resources/games_table.csv) <br> 
 [platform data](https://github.com/dalismo/api_call_of_duty_etl/blob/main/Resources/platforms_table.csv)<br>
