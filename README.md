@@ -91,7 +91,7 @@ In Jupyter Notebook
 
 ### Option 2 - Manual data import to Postgres<br>
 1) As an alternative to running the [ETL python file](https://github.com/dalismo/api_call_of_duty_etl/blob/main/Extract_Transform_Load.ipynb) 
-users can access the game ratings and sales data from the [Resource folder](https://github.com/dalismo/api_call_of_duty_etl/resources):<br>
+users can access the game ratings and sales data from the [Resources folder](https://github.com/dalismo/api_call_of_duty_etl/tree/main/Resources):<br>
 [Video Game Sales from 2012 to 2016](https://github.com/dalismo/api_call_of_duty_etl/blob/main/Resources/clean_video_game_sales_2012_to_2016.csv)<br>
 [Video Game Ratings data from 2012 to 2016](https://github.com/dalismo/api_call_of_duty_etl/blob/main/Resources/rawg_games_ratings_2012_to_2016.csv)<br>
 [Video Game Sales and Rating data from 2012 to 2016 (CSV)](https://github.com/dalismo/api_call_of_duty_etl/blob/main/Resources/merged_games_sales_ratings_2012_to_2016.csv)<br>
