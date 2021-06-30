@@ -92,7 +92,7 @@ In Jupyter Notebook
 ### Option 2 - Manual data import to Postgres<br>
 1) As an alternative to running the [ETL python file](https://github.com/dalismo/api_call_of_duty_etl/blob/e98b6ff3eb5c62ec5f9d987eb152214e639d84b4/Extract_Transform_Load.ipynb) 
 users can access the game ratings and sales data from the [Resource folder](https://github.com/dalismo/api_call_of_duty_etl/resources):<br>
-[Video Game Sales from 2012 to 2016](https://github.com/dalismo/api_call_of_duty_etl/blob/f29f69a70a64a091590a306ac0297002efaf27a9/Resources/clean_video_game_sales_2012_to_2016.csv)<br>
+[Video Game Sales from 2012 to 2016](https://github.com/dalismo/api_call_of_duty_etl/blob/db21bee5d0e71b2b59de52aceae078dc80b2aa49/Resources/clean_video_game_sales_2012_to_2016.csv)<br>
 [Video Game Ratings data from 2012 to 2016](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/rawg_vg_data.csv)<br>
 [Video Game Sales and Rating data from 2012 to 2016 (CSV)](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/rawg_vg_data.csv)<br>
 [Video Game Sales and Rating data from 2012 to 2016 (JSON)](https://github.com/dalismo/api_call_of_duty_etl/blob/d38a60b3556f7d29eea3b37c7c6be0505058c1e3/Resources/rawg_vg_data.json)<br>
